@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2016-04-01T12:20:31+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dictionnaire des idées reçues. Œuvre posthume</title>
+        <author key="Flaubert, Gustave (1821-1880)">Gustave Flaubert</author>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/details.php?book=343">http://www.ebooksgratuits.com/details.php?book=343</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1913"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>A</head>
+        <p><hi rend="b">ABELARD : </hi>Inutile d’avoir la moindre idée de sa philosophie, ni même de connaître le titre de ses ouvrages. Faire une allusion discrète à la mutilation opérée sur lui par Fulbert. Tombeau d’Eloïse et d’Abélard : si l’on vous prouve qu’il est faux, s’écrier : « Vous m’ôtez mes illusions.  »</p>
+        <p/>
+        <p><hi rend="b">ABRICOTS : </hi>Nous n’en aurons pas encore cette année.</p>
+        <p/>
+        <p><hi rend="b">ABSALON : </hi>S’il eût porté perruque, Joab n’aurait pu le tuer. Nom facétieux à donner à un ami chauve.</p>
+        <p/>
+        <p><hi rend="b">ABSINTHE : </hi> extra-violent : un verre et vous êtes mort. Les journalistes en boivent pendant qu’ils écrivent leurs articles. A tué plus de soldats que les Bédouins.</p>
+        <p/>
+        <p><hi rend="b">ACADÉMIE FRANCAISE : </hi>La dénigrer, mais tâcher d’en faire partie si on peut.</p>
+        <p/>
+        <p><hi rend="b">ACCIDENT : </hi>Toujours déplorable ou fâcheux (comme si on devait jamais trouver un malheur une chose réjouissante...).</p>
+        <p/>
+        <p><hi rend="b">ACCOUCHEMENT :</hi> Mot à éviter ; le remplacer par événement. « Pour quelle époque attendez-vous l’événement ? »</p>
+        <p/>
+        <p><hi rend="b">ACHILLE : </hi>Ajouter « aux pieds légers » ; cela donne à croire qu’on a lu .</p>
+        <p/>
+        <p><hi rend="b">ACTRICES : </hi>La perte des fils de famille. Sont d’une lubricité effrayante, se livrent à des orgies, avalent des millions, finissent à l’hôpital. Pardon ! il y en a qui sont bonnes mères de famille !</p>
+        <p/>
+        <p><hi rend="b">ADIEUX : </hi>Mettre des larmes dans sa voix en parlant des adieux de Fontainebleau.</p>
+        <p/>
+        <p><hi rend="b">ADOLESCENT : </hi>Ne jamais commencer un discours de distribution des prix autrement que par « Jeunes adolescents » (ce qui est un pléonasme).</p>
+        <p/>
+        <p><hi rend="b"> (Les) : </hi>Passent avant tout. Une femme doit éviter de parler des siennes. Sont dans la vie ce qu’il y a de plus important. Tout est là.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Terme lubrique.</p>
+        <p/>
+        <p><hi rend="b">AGRICULTURE : </hi>Une des mamelles de l’Etat (l’Etat est du genre masculin, mais ça ne fait rien). On devrait l’encourager. Manque de .</p>
+        <p/>
+        <p><hi rend="b">AIL : </hi>Tue les vers intestinaux et dispose aux combats de l’amour. On en frotta les lèvres de Henri IV au moment où il vient au monde.</p>
+        <p/>
+        <p><hi rend="b">AIR : </hi>Toujours se méfier des courants d’air. Invariablement le fond de l’air est en contradiction avec la température ; si elle est chaude, il est froid, et l’inverse.</p>
+        <p/>
+        <p><hi rend="b">AIRAIN : </hi>Métal de .</p>
+        <p/>
+        <p><hi rend="b">ALBÂTRE : </hi>Sert à décrire les plus belles parties du corps de la femme.</p>
+        <p/>
+        <p><hi rend="b">ALBION : </hi>Toujours précédé de blanche, perfide, positive. Il s’en est fallu de bien peu que Napoléon en fît la conquête. En faire l’éloge : la libre Angleterre.</p>
+        <p/>
+        <p><hi rend="b">ALCIBIADE : </hi>Célèbre par la queue de son . Type de . Fréquentait Aspasie.</p>
+        <p/>
+        <p><hi rend="b">ALCOOLISME : </hi>Cause de toute les maladies modernes (v.  et ).</p>
+        <p/>
+        <p><hi rend="b">ALLEMAGNE : </hi>Toujours précédé de blonde, rêveuse. Mais quelle organisation militaire.</p>
+        <p/>
+        <p><hi rend="b">ALLEMANDS : </hi>Peuple de rêveurs (<emph>vieux</emph>). Ce n’est pas étonnant qu’ils nous aient battus, nous n’étions pas prêts !</p>
+        <p/>
+        <p><hi rend="b">AMBITIEUX : </hi>En province, tout homme qui fait parler de lui. « Je ne suis pas ambitieux, moi !  » veut dire égoïste ou incapable.</p>
+        <p/>
+        <p><hi rend="b">AMBITION : </hi>Toujours précédé de folle quand elle n’est pas noble.</p>
+        <p/>
+        <p><hi rend="b">AMÉRIQUE : </hi>Bel exemple d’injustice : C’est Colomb qui la découvrit et elle tire son nom d’Améric Vespuce. Sans la découverte de l’Amérique, nous n’aurions pas la  et le phylloxéra. L’exalter quand même, surtout quand on n’y a pas été. Faire une tirade sur le <emph>self-government.</emph></p>
+        <p/>
+        <p><hi rend="b">AMIRAL : </hi>Toujours brave. Ne jure que par « mille sabords ! »</p>
+        <p/>
+        <p><hi rend="b">ANDROCLÈS : </hi>Citer le  d’Androclès à propos de dompteurs.</p>
+        <p/>
+        <p><hi rend="b">ANGE : </hi>Fait bien en amour et en .</p>
+        <p/>
+        <p><hi rend="b">ANGLAIS : </hi>Tous .</p>
+        <p/>
+        <p><hi rend="b">ANGLAISES : </hi>S’étonner de ce qu’elles ont de jolis .</p>
+        <p><hi rend="b">ANTÉCHRIST : </hi>, Renan...</p>
+        <p/>
+        <p><hi rend="b">ANTIQUITÉ </hi>et tout ce qui s’y rapporte<hi rend="b"> : </hi>Poncif, embêtant.</p>
+        <p/>
+        <p><hi rend="b">ANTIQUITÉS (les) : </hi>Sont toujours de fabrication moderne.</p>
+        <p/>
+        <p><hi rend="b">APLOMB : </hi>Toujours suivi de infernal ou précédé de rude.</p>
+        <p/>
+        <p><hi rend="b">APPARTEMENT de garçon : </hi>Toujours en désordre, avec des colifichets de femme traînant ça et là. Odeur de cigarettes. On doit y trouver des choses extraordinaires.</p>
+        <p/>
+        <p><hi rend="b">ARBALÈTE : </hi>Belle occasion pour raconter l’histoire de Guillaume Tell.</p>
+        <p/>
+        <p><hi rend="b">ARCHIMÈDE : </hi>Dire à son nom : « Euréka ! Donnez-moi un point d’appui et je soulèverai le monde. » Il y a encore la vis d’Archimède, mais on n’est pas tenu de savoir en quoi elle consiste.</p>
+        <p/>
+        <p><hi rend="b">ARCHITECTES : </hi>Tous imbéciles. Oublient toujours l’escalier des maisons.</p>
+        <p/>
+        <p><hi rend="b">ARCHITECTURE : </hi>Il n’y a que quatre ordre d’architecture. Bien entendu qu’on ne compte pas l’égyptien, le cyclopéen, l’assyrien, l’indien, le chinois, le , le roman, etc.</p>
+        <p/>
+        <p><hi rend="b">ARGENT : </hi>Cause de tout le mal. <emph>Auri sacra fames</emph>. Le  du jour (ne pas confondre avec Apollon). Les  le nomment traitement, les notaires émoluments, les médecins honoraires, les employés appointements, les  salaires, les  gages. L’argent ne fait pas le bonheur.</p>
+        <p/>
+        <p><hi rend="b">ARMÉE : </hi>Le rempart de la .</p>
+        <p/>
+        <p><hi rend="b">ARSENIC : </hi>Se trouve partout (rappeler Mme Lafarge). Cependant, il y a des peuples qui en mangent.</p>
+        <p/>
+        <p><hi rend="b">ART : </hi>Ca mène à l’hôpital. A quoi ça sert, puisqu’on le remplace par la  qui fait mieux et plus vite.</p>
+        <p/>
+        <p><hi rend="b">ARTISTES : </hi>Tous farceurs. Vanter leur désintéressement (<emph>vieux</emph>). S’étonner de ce qu’ils sont habillés comme tout le monde (<emph>vieux</emph>). Gagnent des sommes folles, mais les jettent par les fenêtres. Souvent invités à  en ville. Femme artiste ne peut être qu’une catin. Ce qu’ils font ne peut s’appeler travailler.</p>
+        <p/>
+        <p><hi rend="b">ASPIC : </hi>Animal connu par le panier de figues de Cléopâtre.</p>
+        <p/>
+        <p><hi rend="b">ASSASSIN : </hi>Toujours lâche, même quand il a été intrépide et audacieux. Moins coupable qu’un .</p>
+        <p/>
+        <p><hi rend="b">ASTRONOMIE : </hi>Belle science. N’est utile que pour la marine. A ce propos, rire de l’astrologie.</p>
+        <p/>
+        <p><hi rend="b">ATHÉE : </hi>Un peuple d’athée ne saurait subsister.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>On doit « connaître des  » ; inutile de savoir leur nom.</p>
+        <p/>
+        <p><hi rend="b">AUTRUCHE : </hi>Digère les pierres.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Trop d’avocats à la . Ont le jugement faussé. Dire d’un avocat qui parle mal :« Oui, mais il est fort en droit. »</p>
+      </div>
+      <div>
+        <head>B</head>
+        <p><hi rend="b">BACCALAURÉAT : </hi>Tonner contre.</p>
+        <p/>
+        <p><hi rend="b">BADAUD : </hi>Tous les Parisiens sont des badauds quoique sur dix habitants de  il y ait neuf provinciaux. A Paris on ne travaille pas.</p>
+        <p/>
+        <p><hi rend="b">BADIGEON dans les églises : </hi>Tonner contre. Cette colère artistique est extrêmement bien portée.</p>
+        <p/>
+        <p><hi rend="b">BAGNOLET : </hi>Pays célèbre par ses aveugles.</p>
+        <p/>
+        <p><hi rend="b">BAGUE : </hi>Il est très distingué de la porter au doigt indicateur. La mettre au pouce est trop oriental. Porter des bagues déforme les doigts.</p>
+        <p/>
+        <p><hi rend="b">BÂILLEMENT : </hi>Il faut dire : « Excusez-moi, ça ne vient pas de l’ennui, mais de . »</p>
+        <p/>
+        <p><hi rend="b">BAISER : </hi>Dire embrasser, plus décent. Doux larcin. Le baiser se dépose sur le front d’une , la joue d’une maman, la main d’une jolie femme, le cou d’un , les lèvres d’une maîtresse.</p>
+        <p/>
+        <p><hi rend="b">BALLONS : </hi>Avec les ballons, on finira par aller dans la lune. On n’est pas près de les diriger.</p>
+        <p/>
+        <p><hi rend="b">BANDITS : </hi>Toujours féroces.</p>
+        <p/>
+        <p><hi rend="b">BANQUET : </hi>La plus franche des cordialité ne cesse d’y régner. On en emporte le meilleur souvenir et on ne se sépare jamais sans s’être donné rendez-vous pour l’année prochaine. Un farceur doit dire : « Au banquet de la vie, infortuné convive... » , etc.</p>
+        <p/>
+        <p><hi rend="b">BANQUIERS : </hi>Tous riches. Arabes, loups, cerviers.</p>
+        <p/>
+        <p><hi rend="b">BARAGOUIN : </hi>Manière de parler des . Toujours rire de l’étranger qui parle mal français.</p>
+        <p/>
+        <p><hi rend="b">BARBE : </hi>Signe de . Trop de barbe fait tomber les cheveux. Utile pour protéger les cravates.</p>
+        <p/>
+        <p><hi rend="b">BARBIER : </hi>Aller chez le frater, chez . Le barbier de Louis XI. Autrefois saignait.</p>
+        <p/>
+        <p><hi rend="b">BAS-BLEU : </hi>Terme de mépris pour désigner toute femme qui s’intéresse aux choses intellectuelles. Citer Molière à l’appui : « Quand la capacité de son esprit se hausse... » , etc.</p>
+        <p/>
+        <p><hi rend="b">BASES de la société : </hi><emph>Id est</emph>, la , la famille, la religion, le respect des autorités. En parler avec colère si on les attaque.</p>
+        <p/>
+        <p><hi rend="b">BASILIQUE : </hi>Synonyme pompeux . Est toujours imposante.</p>
+        <p/>
+        <p><hi rend="b">BASQUES : </hi>Le peuple qui  le mieux.</p>
+        <p/>
+        <p><hi rend="b">BATAILLE : </hi>Toujours sanglante. Il y a toujours deux vainqueurs, le battant et le battu.</p>
+        <p/>
+        <p><hi rend="b">BÂTON : </hi>Plus redoutable que .</p>
+        <p/>
+        <p><hi rend="b">BAUDRUCHE : </hi>Ne sert qu’à faire des .</p>
+        <p/>
+        <p><hi rend="b">BAYADÈRE : </hi>Mot qui entraîne . Toutes les femmes de  sont des bayadères (v. ).</p>
+        <p/>
+        <p><hi rend="b">BEETHOVEN : </hi>Ne prononcez pas Bitovan. Se pâmer quand même lorsqu’on exécute une de se œuvres.</p>
+        <p/>
+        <p><hi rend="b">BERGERS : </hi>Tous sorciers. Ont la spécialité de causer avec la Sainte Vierge.</p>
+        <p/>
+        <p><hi rend="b">BÊTES : </hi>Ah ! si les bêtes pouvaient parler ! Il y en a qui sont plus intelligentes que des .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Le plus ancien livre du monde.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Toujours en avoir une chez soi, principalement quand on habite la .</p>
+        <p/>
+        <p><hi rend="b">BIÈRE : </hi>Il ne faut pas en boire, ça enrhume.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Noble . Indispensable à la .</p>
+        <p/>
+        <p><hi rend="b">BLONDES : </hi>Plus  que les brunes (v. ).</p>
+        <p/>
+        <p><hi rend="b">BOIS : </hi>Les bois font rêver. Sont propres à composer des . A l’automne, quand on se promène, on doit dire : « De la dépouille de nos bois... » , etc.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Toutes mauvaises. Il n’y a plus de  !</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Indispensable à l’homme de cabinet. Donne de la majesté au visage.</p>
+        <p/>
+        <p><hi rend="b">BOSSUS : </hi>Ont beaucoup d’esprit. Sont très recherchés par des.</p>
+        <p/>
+        <p><hi rend="b">BOTTE : </hi>Par les grandes chaleurs, ne jamais oublier les allusions sur les bottes de gendarmes ou les souliers des facteurs (n’est permis qu’à la campagne, au grand air). On n’est bien chaussé qu’avec des bottes.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Sont terribles en temps de .</p>
+        <p/>
+        <p><hi rend="b">BOUDIN : </hi>Signe de gaieté dans les maisons. Indispensable la nuit de .</p>
+        <p/>
+        <p><hi rend="b">BOUDDHISME : </hi>« Fausse  de l’Inde »  (Définition du Dictionnaire Bouillet, 1<hi rend="sup">re</hi> édition).</p>
+        <p/>
+        <p><hi rend="b">BOUILLI (le) : </hi>C’est sain. Inséparable du mot soupe : la soupe et le bouilli.</p>
+        <p/>
+        <p><hi rend="b">BOULET : </hi>Le vent du boulet rend aveugle.</p>
+        <p/>
+        <p><hi rend="b">BOURREAU : </hi>Toujours de père en fils.</p>
+        <p/>
+        <p><hi rend="b">BOURSE (la) : </hi>Thermomètre de l’opinion publique.</p>
+        <p/>
+        <p><hi rend="b">BOURSIERS : </hi>Tous voleurs.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Au visage ou ailleurs, signe de  et de force du sang. Ne point les faire passer.</p>
+        <p/>
+        <p><hi rend="b">BRACONNIERS : </hi>Tous forçats libérés. Auteurs de tous les  commis dans les campagnes. Doivent exciter une  frénétique : « Pas de pitié, monsieur, pas de pitié ! »</p>
+        <p/>
+        <p><hi rend="b">BRAS : </hi>Pour gouverner la France, il faut un bras de fer.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Tous braves gens, mais entêtés.</p>
+        <p/>
+        <p><hi rend="b">BROCHE : </hi>Doit toujours encadrer une mèche de cheveux ou une .</p>
+        <p/>
+        <p><hi rend="b">BRUNES : </hi>Plus  que les blondes (v. ).</p>
+        <p/>
+        <p><hi rend="b">BUDGET : </hi>Jamais en équilibre.</p>
+        <p/>
+        <p><hi rend="b">BUFFON : </hi>Mettait des manchettes pour écrire.</p>
+      </div>
+      <div>
+        <head>C</head>
+        <p><hi rend="b">CACHET : </hi>Toujours suivi de « tout particulier » .</p>
+        <p/>
+        <p><hi rend="b">CACHOT : </hi>Toujours affreux. La paille y est toujours humide. On n’en a pas encore rencontré de délicieux.</p>
+        <p/>
+        <p><hi rend="b">CADEAU : </hi>Ce n’est pas la valeur qui en fait le prix, ou bien ce n’est pas le prix qui en fait la valeur. Le cadeau n’est rien, c’est l’intention qui compte.</p>
+        <p/>
+        <p><hi rend="b">CAFÉ : </hi>Donne de . N’est bon qu’en venant du Havre. Dans un grand , doit se prendre debout. L’avaler sans sucre, très chic, donne l’air d’avoir vécu en .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Toujours précoce, est causée par des excès de jeunesse ou la conception de grande .</p>
+        <p/>
+        <p><hi rend="b">CAMARILLA : </hi>S’indigner quand on prononce ce mot.</p>
+        <p/>
+        <p><hi rend="b">CAMPAGNE : </hi>Les gens de la campagne meilleurs que ceux des villes : envier leur sort. A la campagne tout est permis ; habits bas, , etc.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Viennent tous de .</p>
+        <p/>
+        <p><hi rend="b">CANDEUR : </hi>Toujours adorable. On en est rempli ou on n’en a pas du tout.</p>
+        <p/>
+        <p><hi rend="b">CANONADE : </hi>Change le .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Dorment près des cadavres. Il y en a qui en mangent.</p>
+        <p/>
+        <p><hi rend="b">CARÈME : </hi>Au fond n’est qu’une mesure .</p>
+        <p><hi rend="b">CATAPLASME : </hi>Doit toujours être mis en attendant l’arrivée du .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>A eu une influence très favorable sur les .</p>
+        <p/>
+        <p><hi rend="b">CAUCHEMAR : </hi>Vient de .</p>
+        <p/>
+        <p><hi rend="b">CAVALERIE : </hi>Plus noble que l’infanterie.</p>
+        <p/>
+        <p><hi rend="b">CAVERNES : </hi>Habitation ordinaire des . Sont toujours remplies de serpents.</p>
+        <p/>
+        <p><hi rend="b">CÈDRE : </hi>Celui du Jardin des Plantes a été rapporté dans un .</p>
+        <p/>
+        <p><hi rend="b">CÉLÉBRITÉ : </hi>Les célébrités : s’inquiéter du moindre détail de leur vie privée, afin de pouvoir les dénigrer.</p>
+        <p/>
+        <p><hi rend="b">CELIBATAIRES : </hi>Tous  et . On devrait les imposer. Se préparent une triste vieillesse.</p>
+        <p/>
+        <p><hi rend="b">CENSURE : </hi>Utile, on a beau dire.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>On doit toujours faire partie d’un cercle.</p>
+        <p/>
+        <p><hi rend="b">CERTIFICAT : </hi>Garantie pour les familles et pour les . est toujours favorable.</p>
+        <p/>
+        <p><hi rend="b">CÉRUMEN : </hi>« Cire humaine » . Se garder de l’ôter parce qu’elle empêche les insectes d’enter dans les oreilles.</p>
+        <p/>
+        <p><hi rend="b">CHACAL : </hi>Singulier de shakos (<emph>vieux</emph>, mais fait toujours rire).</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Toujours insupportable. Ne pas boire quand il fait chaud.</p>
+        <p/>
+        <p><hi rend="b">CHAMBRE À COUCHER : </hi>Dans un vieux  :  y a toujours passé une nuit.</p>
+        <p/>
+        <p><hi rend="b">CHAMEAU : </hi>A deux bosses et le dromadaire une seule. Ou bien le chameau a une bosse et le dromadaire deux (on s’y embrouille).</p>
+        <p/>
+        <p><hi rend="b">CHAMPAGNE : </hi>Caractérise le  de cérémonie. Faire semblant de le détester, en disant que « ce n’est pas du  » . Provoque  chez les petites gens. La  en consomme plus que la France. C’est par lui que les idées françaises se sont répandues en Europe. Sous la Régence, on ne faisait pas autre chose que d’en boire. Mais on ne le boit pas, on le « sable » .</p>
+        <p/>
+        <p><hi rend="b">CHAMPIGNONS : </hi>Ne doivent être achetés qu’au marché.</p>
+        <p/>
+        <p><hi rend="b">CHANTEUR : </hi>Avalent tous les matins un  frais pour s’éclaircir la voix. Le ténor a toujours une voix charmante et tendre, le baryton un organe sympathique et bien timbré, et la basse une émission puissante.</p>
+        <p/>
+        <p><hi rend="b">CHAPEAU : </hi>Protester contre la forme des chapeaux.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Anecdote des pâtés faits avec de la chair humaine. Toutes les charcutières sont jolies.</p>
+        <p/>
+        <p><hi rend="b">CHARTREUX : </hi>Passent leur temps à faire de la chartreuse, à creuser leur tombe et à dire : « Frère, il faut mourir. »</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Excellent  que l’on doit feindre d’adorer. Fait partie de la pompe des souverains. Sujet de délire pour la .</p>
+        <p/>
+        <p><hi rend="b">CHAT : </hi>Les chats sont traîtres. Les appeler tigres de salon. Leur couper la queue pour empêcher le vertigo.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Femelle du marron.</p>
+        <p/>
+        <p><hi rend="b">CHATEAUBRIAND : </hi>Connu surtout par le beefsteak qui porte son nom.</p>
+        <p/>
+        <p><hi rend="b">CHÂTEAU FORT : </hi>A toujours subi un siège sous Philippe Auguste.</p>
+        <p/>
+        <p><hi rend="b">CHEMINÉE : </hi>Fume toujours. Sujet de discussion à propos du chauffage.</p>
+        <p/>
+        <p><hi rend="b">CHEMINS DE FER : </hi>Si Napoléon les avait eus à sa disposition, il aurait été invincible. S’extasier sur leur  et dire : « Moi, monsieur, qui vous parle, j’étais ce matin à X... ; je suis parti par le train de X... ; là-bas, j’ai fait mes affaires, etc. , et à x heures, j’étais revenu ! »</p>
+        <p/>
+        <p><hi rend="b">CHEVAL : </hi>S’il connaissait sa , ne se laisserait pas conduire. Viande de cheval : beau sujet de brochure pour un homme qui désire se poser en personnage sérieux. Cheval de course : le mépriser. A quoi sert-il ?</p>
+        <p/>
+        <p><hi rend="b">CHIEN : </hi>Spécialement créé pour sauver la vie à son maître. Le chien est l’ami de l’homme.</p>
+        <p/>
+        <p><hi rend="b">CHIRURGIENS : </hi>Ont le cœur  : les appeler bouchers.</p>
+        <p/>
+        <p><hi rend="b">CHOLÉRA : </hi>Le  donne le choléra. On s’en guérit en prenant beaucoup de thé avec du rhum.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>A affranchi les esclaves.</p>
+        <p/>
+        <p><hi rend="b">CIDRE : </hi>Gâte les .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Ceux de la Régie, « tous infects » . Les seuls bons viennent par contrebande.</p>
+        <p/>
+        <p><hi rend="b">CIRAGE : </hi>N’est bon que si on le fait soi-même.</p>
+        <p/>
+        <p><hi rend="b">CLAIR-OBSCUR : </hi>On ne sait pas ce que c’est.</p>
+        <p/>
+        <p><hi rend="b">CLARINETTE : </hi>En jouer rend aveugle. Ex. : Tous les aveugles jouent de la clarinette.</p>
+        <p/>
+        <p><hi rend="b"> (les) : </hi>On est censé les connaître.</p>
+        <p/>
+        <p><hi rend="b">CLOCHER de village : </hi>Fait battre le cœur.</p>
+        <p/>
+        <p><hi rend="b">CLOU : </hi>V. .</p>
+        <p/>
+        <p><hi rend="b">CLOWN : </hi>A été disloqué dès l’enfance.</p>
+        <p/>
+        <p><hi rend="b">CLUB : </hi>Sujet d’exaspération pour les . Embarras et discussion sur la prononciation de ce mot.</p>
+        <p/>
+        <p><hi rend="b">COCHON : </hi>L’intérieur de son  étant « tout pareil à celui d’un homme » , on devrait s’en servir dans les hôpitaux pour apprendre l’anatomie.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Toute femme doit faire son mari cocu.</p>
+        <p/>
+        <p><hi rend="b">COFFRES-FORTS : </hi>Leurs complications sont très faciles à déjouer.</p>
+        <p/>
+        <p><hi rend="b">COGNAC : </hi>Très funeste. Excellent dans plusieurs maladies. Un bon verre de cognac ne fait jamais de mal. Pris à jeun tue le ver de .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Mots à éviter. Dire : « Ils avaient des rapports... »</p>
+        <p/>
+        <p><hi rend="b">COLÈRE : </hi>Fouette le sang ;  de s’y mettre de temps en temps.</p>
+        <p/>
+        <p><hi rend="b">COLLEGE, lycée : </hi>Plus noble qu’une .</p>
+        <p/>
+        <p><hi rend="b">COLONIES (nos) : </hi>S’attrister quand on en parle.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>En vers, ne convient plus à notre . On doit cependant respecter la haute comédie. <emph>Castigat ridendo mores.</emph></p>
+        <p/>
+        <p><hi rend="b">COMÈTES : </hi> des gens qui en avaient peur.</p>
+        <p/>
+        <p><hi rend="b">COMMERCE : </hi>Discuter pour savoir lequel est le plus noble, du commerce ou de .</p>
+        <p/>
+        <p><hi rend="b">COMMUNION : </hi>La première communion : le plus beau  de la vie.</p>
+        <p/>
+        <p><hi rend="b">COMPAS : </hi>On voit juste quand on l’a dans l’œil.</p>
+        <p/>
+        <p><hi rend="b">CONCERT : </hi>Passe-temps comme il faut.</p>
+        <p/>
+        <p><hi rend="b">CONCESSIONS : </hi>N’en faire jamais. Elles ont perdu .</p>
+        <p/>
+        <p><hi rend="b">CONCILIATION : </hi>Les prêcher toujours, même quand les contraires sont absolus.</p>
+        <p/>
+        <p><hi rend="b">CONCUPISCENCE : </hi>Mot de  pour exprimer les désirs charnels.</p>
+        <p/>
+        <p><hi rend="b"> : </hi>L’âme du .</p>
+        <p/>
+        <p><hi rend="b">CONFISEURS : </hi>Tous les  sont confiseurs.</p>
+        <p/>
+        <p><hi rend="b">CONFORTABLE : </hi>Précieuse découverte moderne.</p>
+        <p/>
+        <p><hi rend="b">CONGRÉGANISTE : </hi>Chevalier d’Onan.</p>
+        <p/>
+        <p><hi rend="b">CONJURÉ : </hi>Les conjurés ont toujours la manie de s’inscrire sur une liste.</p>
+        <p/>
+        <p><hi rend="b">CONSERVATEUR : </hi>Homme politique à gros ventre. « Conservateur borné ! - Oui, monsieur, les bornes servent de garde-fou. « </p>
+        <p/>
+        <p><hi rend="b">CONSERVATOIRE : </hi>Il est indispensable d’être  au Conservatoire.</p>
+        <p/>
+        <p><hi rend="b">CONSTIPATION : </hi>Tous les gens de lettres sont constipés. Influe sur les convictions politiques.</p>
+        <p/>
+        <p><hi rend="b">CONTRALTO : </hi>On ne sait pas ce que c’est.</p>
+        <p/>
+        <p><hi rend="b">CONVERSATION : </hi>La politique et la  doivent en être exclues.</p>
+        <p/>
+        <p><hi rend="b">COPAHU : </hi>Feindre d’en ignorer l’usage.</p>
+        <p/>
+        <p><hi rend="b">COQ : </hi>Un homme maigre doit toujours dire qu’un bon coq n’est jamais .</p>
+        <p/>
+        <p><hi rend="b">COR aux pieds : </hi>Indique le changement de temps mieux qu’un baromètre. Très dangereux quand il est mal coupé : citer des exemples d’accidents terribles.</p>
+        <p/>
+        <p><hi rend="b">COR de chasse : </hi>Dans les  fait bon effet, et le soir sur .</p>
+        <p/>
+        <p><hi rend="b">CORDE : </hi>On ne connaît pas la  d’une corde. Est plus solide que le fer.</p>
+        <p><hi rend="b">CORDONNIER : </hi><emph>Ne sutor ultra crepidam</emph>.</p>
+        <p/>
+        <p><hi rend="b">CORPS : </hi>Si nous savions comment notre corps est fait, nous n’oserions pas faire un mouvement.</p>
+        <p/>
+        <p><hi rend="b">CORSET : </hi>Empêche d’avoir des .</p>
+        <p/>
+        <p><hi rend="b">COSAQUES : </hi>Mangent de la chandelle.</p>
+        <p/>
+        <p><hi rend="b">COTON : </hi>Est surtout utile pour les oreilles.</p>
+        <p/>
+        <p><hi rend="b">COURTISANE : </hi>Est un mal nécessaire. Sauvegarde de nos filles et de nos sœurs tant qu’il y aura des . Devraient être chassées impitoyablement. On ne peut plus sortir avec sa femme à cause de leur présence sur le boulevard. Sont toujours des filles du peuple  par des bourgeois .</p>
+        <p/>
+        <p><hi rend="b">COUSIN : </hi>Conseiller aux maris de se méfier du petit cousin.</p>
+        <p/>
+        <p><hi rend="b">COUTEAU : </hi>Est catalan quand la lame est longue. S’appelle poignard quand il a servi à commettre un .</p>
+        <p/>
+        <p><hi rend="b"> : </hi>Mâle de la grenouille. Possède un venin fort dangereux. Habite l’intérieur des pierres.</p>
+        <p/>
+        <p><hi rend="b">CRÉOLE : </hi>Vit dans un .</p>
+        <p/>
+        <p><hi rend="b">CRIMINEL : </hi>Toujours odieux.</p>
+        <p/>
+        <p><hi rend="b">CRITIQUE : </hi>Toujours éminent. Est censé tout connaître, tout savoir, avoir tout lu, tout vu. Quand il vous déplaît, l’appeler Aristarque, ou eunuque.</p>
+        <p/>
+        <p><hi rend="b">CROCODILE : </hi>Imite le cri des  pour attirer l’homme.</p>
+        <p/>
+        <p><hi rend="b">CROISADES : </hi>Ont été bienfaisantes pour le  de Venise.</p>
+        <p/>
+        <p><hi rend="b">CRUCIFIX : </hi>Fait bien dans une alcôve et à la .</p>
+        <p/>
+        <p><hi rend="b">CUIR : </hi>Tous les cuirs viennent de .</p>
+        <p/>
+        <p><hi rend="b">CUISINE : </hi>De  : toujours échauffante. Bourgeoise : toujours saine. Du Midi : trop épicée ou toute à .</p>
+        <p/>
+        <p><hi rend="b">CUJAS : </hi>Inséparable de Bartole ; on ne sait pas ce qu’ils ont écrit, n’importe. Dire à tout homme étudiant le  : « Vous êtes enfermé dans Cujas et Bartole »</p>
+        <p/>
+        <p><hi rend="b">CURACAO : </hi>Le meilleur est de Hollande parce qu’il se fabrique à Curaçao, une des Antilles.</p>
+        <p/>
+        <p><hi rend="b">CYGNE : </hi>Chante avant de mourir. Avec son aile peut casser la cuisse d’un homme. Le cygne de Cambrai n’était pas un , mais un homme nommé Fénélon. Le cygne de Mantoue, c’est Virgile. Le cygne de Pesaro, c’est Rossini.</p>
+        <p/>
+        <p><hi rend="b">CYPRÈS : </hi>Ne pousse que dans les cimetières.</p>
+        <p/>
+        <p><hi rend="b">CZAR : </hi>Prononcer tzar et de temps en temps autocrate.</p>
+      </div>
+      <div>
+        <head>D</head>
+        <p><hi rend="b">DAGUERRÉOTYPE : </hi>Remplacera la peinture (v. photographie).</p>
+        <p/>
+        <p><hi rend="b">DAMAS : </hi>Seul endroit où l’on sache faire les sabres. Toute bonne lame est de Damas.</p>
+        <p/>
+        <p><hi rend="b">DAME : </hi>Tout pour les dames. Honneur aux dames. Ne jamais dire : « Ces dames sont aux salons. »</p>
+        <p/>
+        <p><hi rend="b">DANSE : </hi>On ne danse plus, on marche.</p>
+        <p/>
+        <p><hi rend="b">DANTON : </hi>« De l’audace, encore de l’audace, toujours de l’audace ! »</p>
+        <p/>
+        <p><hi rend="b">DARTRE : </hi>signe de santé (v. boutons).</p>
+        <p/>
+        <p><hi rend="b">DARWIN : </hi>Celui qui dit que nous descendons du singe.</p>
+        <p/>
+        <p><hi rend="b">DAUPHIN : </hi>Porte les enfants sur son dos.</p>
+        <p/>
+        <p><hi rend="b">DÉBAUCHE : </hi>Cause de toutes les maladies des célibataires.</p>
+        <p/>
+        <p><hi rend="b">DÉCHAÎNER : </hi>On déchaîne ses chiens et les mauvaises passions.</p>
+        <p/>
+        <p><hi rend="b">DÉCOR de théâtre : </hi>N’est pas de la peinture : il suffit de jeter en vrac sur la toile un seau de couleurs ; puis on l’étend avec un balai ; et l’éloignement avec la lumière fait l’illusion.</p>
+        <p/>
+        <p><hi rend="b">DÉCORATION de la Légion d’honneur : </hi>La blaguer mais la convoiter. Quand on l’obtient, toujours dire qu’on ne l’a pas demandée.</p>
+        <p/>
+        <p><hi rend="b">DÉCORUM : </hi>Donne du prestige. Frappe l’imagination des masses. « Il en faut ! Il en faut ! »</p>
+        <p/>
+        <p><hi rend="b">DÉFAITE : </hi>S’essuie, et elle est tellement complète qu’il n’en reste personne pour en porter la nouvelle.</p>
+        <p><hi rend="b">DÉFILÉ : </hi>Toujours citer les Thermopyles. Le défilé des Vosges sont les Thermopyles de la France (s’est beaucoup dit en 1870).</p>
+        <p/>
+        <p><hi rend="b">DÉICIDE : </hi>S’indigner contre, bien que le crime ne soit pas fréquent.</p>
+        <p/>
+        <p><hi rend="b">DÉJEUNER des garçons : </hi>Exige des huîtres, du vin blanc et des gaudrioles.</p>
+        <p/>
+        <p><hi rend="b">DÉMÊLOIR : </hi>Fait tomber les cheveux.</p>
+        <p/>
+        <p><hi rend="b">DÉMOSTHÈNE : </hi>Ne prononçait pas de discours sans avoir un galet dans la bouche.</p>
+        <p/>
+        <p><hi rend="b">DENTS : </hi>Sont gâtées par le cidre, le tabac, les dragées, la glace, boire de suite après le potage et dormir la bouche ouverte. Dent œillère : dangereux de l’arracher parce qu’elle correspond à l’œil. L’arrachement d’une dent « ne fait pas jouir » .</p>
+        <p/>
+        <p><hi rend="b">DENTISTES : </hi>Tous menteurs. Se servent du baume d’acier. On les croit aussi pédicures. Se disent chirurgiens comme les opticiens se disent se disent ingénieurs.</p>
+        <p/>
+        <p><hi rend="b">DÉPURATIF : </hi>Se prend en cachette.</p>
+        <p/>
+        <p><hi rend="b">DÉPUTÉ : </hi>L’être, comble de la gloire. Tonner contre la Chambre des députés. Trop de bavards à le Chambre. Ne font rien.</p>
+        <p/>
+        <p><hi rend="b">DÉRATÉ : </hi>Courir comme un dératé. Inutile de savoir que l’extirpation de la rate n’a jamais été pratiquée sur l’homme.</p>
+        <p/>
+        <p><hi rend="b">DERBY : </hi>Mot de courses. Très chic.</p>
+        <p/>
+        <p><hi rend="b">DESCARTES : </hi><emph>Cogito, ergo sum</emph>.</p>
+        <p><hi rend="b">DESERT : </hi>Produit des dattes.</p>
+        <p/>
+        <p><hi rend="b">DESSERT : </hi>Regretter qu’on n’y chante plus. Les gens vertueux le méprisent : « Non ! non ! pas de pâtisseries ! Jamais de dessert ! »</p>
+        <p/>
+        <p><hi rend="b">DESSIN (l’art du) : </hi>Se compose de trois choses : le ligne, le grain, et le grainé fin ; de plus, le trait de force. Mais le trait de force, il n’y a que le maître seul qui le donne. (Christophe.)</p>
+        <p/>
+        <p><hi rend="b">DEVOIRS : </hi>Les exiger de la part des autres, s’en affranchir. Les autres en ont envers nous, mais on n’en a pas envers eux.</p>
+        <p/>
+        <p><hi rend="b">DÉVOUEMENT : </hi>Se plaindre de ce que les autres en manquent. « Nous sommes bien inférieurs au chien, sous ce rapport ! »</p>
+        <p/>
+        <p><hi rend="b">DIAMANT : </hi>On finira par en faire ! Et dire que ce n’est que du charbon ! Si nous en trouvions un dans son état naturel, nous ne le ramasserions pas !</p>
+        <p/>
+        <p><hi rend="b">DIANE : </hi>Déesse de la chasse-teté.</p>
+        <p/>
+        <p><hi rend="b">DICTIONNAIRE : </hi>En dire : « N’est fait que pour les ignorants. » 
+<lb/>Dictionnaire de rimes : s’en servir ? Honteux !</p>
+        <p/>
+        <p><hi rend="b">DIDEROT : </hi>Toujours suivi de d’Alembert.</p>
+        <p/>
+        <p><hi rend="b">DIEU : </hi>Voltaire lui-même l’a dit : « Si Dieu n’existait pas, il faudrait l’inventer. »</p>
+        <p/>
+        <p><hi rend="b">DILETTANTE : </hi>Homme riche, abonné à l’Opéra.</p>
+        <p/>
+        <p><hi rend="b">DILIGENCES : </hi>Regretter le temps des diligences.</p>
+        <p><hi rend="b">DÎNER : </hi>Autrefois on dînait à midi, maintenant on dîne à des heures impossibles. Le dîner de nos pères était notre déjeuner, et notre déjeuner était leur dîner. Dîner si tard que ça n’appelle pas dîner, mais souper.</p>
+        <p/>
+        <p><hi rend="b">DIOGÈNE : </hi>« Je cherche un homme... Retire-toi de mon soleil. »</p>
+        <p/>
+        <p><hi rend="b">DIPLOMATIE : </hi>Belle carrière, mais hérissée de difficultés, plaine de mystères. Ne convient qu’aux gens nobles. Métier d’une vague signification, mais au-dessus du commerce. Un diplomate est toujours fin et pénétrant.</p>
+        <p/>
+        <p><hi rend="b">DIPLÔME : </hi>Signe de science. Ne prouve rien.</p>
+        <p/>
+        <p><hi rend="b">DIRECTOIRE (le) : </hi>Les hontes du Directoire. « Dans ce temps-là l’honneur s’était réfugié aux armées. »  Les femmes, à Paris, se promenaient toutes nues.</p>
+        <p/>
+        <p><hi rend="b">DISSECTION : </hi>Outrage à la majesté de la mort.</p>
+        <p/>
+        <p><hi rend="b">DIVA : </hi>Toutes les cantatrices doivent être appelées <emph>Diva</emph>.</p>
+        <p/>
+        <p><hi rend="b">DIVORCE : </hi>Si Napoléon n’avait pas divorcé, il serait encore sur le trône.</p>
+        <p/>
+        <p><hi rend="b">DIX (Conseil des) : </hi>On ne sait pas ce que c’est, mais c’est formidable ! Délibérait masqué. En trembler encore.</p>
+        <p/>
+        <p><hi rend="b">DJINN : </hi>Nom d’une danse orientale.</p>
+        <p/>
+        <p><hi rend="b">DOCTEUR : </hi>Toujours précédé de bon, et, entre hommes, dans la conversation, de <emph>foutre</emph> : « Ah ! foutre, docteur ! »  Est un aigle quand il a votre confiance, n’est plus qu’un âne dès que vous êtes brouillés. Tous matérialistes. « C’est qu’on ne trouve pas la foi au bout d’un scalpel. »</p>
+        <p/>
+        <p><hi rend="b">DOCTRINAIRES : </hi>Les mépriser. Pourquoi ? On n’en sait rien.</p>
+        <p/>
+        <p><hi rend="b">DOCUMENT : </hi>Toujours de la plus haute importance.</p>
+        <p/>
+        <p><hi rend="b">DOGE : </hi>Epousait la mer. On n’en connaît qu’un : Marino Faliero.</p>
+        <p/>
+        <p><hi rend="b">DOIGT : </hi>Le doigt de Dieu se fourre partout.</p>
+        <p/>
+        <p><hi rend="b">DOLMEN : </hi>A rapport aux anciens Français. Pierre qui servait au sacrifice des druides. Il n’y en a qu’en Bretagne. On n’en sait pas plus.</p>
+        <p/>
+        <p><hi rend="b">DÔME : </hi>Tour de forme (<emph>sic</emph>) architecturale. S’étonner de ce que cela puisse tenir tout seul. En citer deux : celui des Invalides et celui de Saint-Pierre de Rome.</p>
+        <p/>
+        <p><hi rend="b">DOMICILE : </hi>Toujours inviolable. Cependant la Justice, la Police, y pénètrent quand elles veulent. Je regagne mes pénates. Je rentre dans mes lares.</p>
+        <p/>
+        <p><hi rend="b">DOMINOS : </hi>On y joue d’autant mieux qu’on est gris.</p>
+        <p/>
+        <p><hi rend="b">DOMPTEURS de bêtes féroces : </hi>Emploient des pratiques obscènes.</p>
+        <p/>
+        <p><hi rend="b">DONJON : </hi>Eveille des idées lugubres.</p>
+        <p/>
+        <p><hi rend="b">DORMIR : </hi>Trop dormir épaissit le sang.</p>
+        <p/>
+        <p><hi rend="b">DORTOIRS : </hi>Toujours spacieux et bien aérés. Préférables aux chambres pour la moralité des élèves.</p>
+        <p/>
+        <p><hi rend="b">DOS : </hi>Une tape dans le dos peut rendre poitrinaire.</p>
+        <p/>
+        <p><hi rend="b">DOUANE : </hi>On doit se révolter contre et la frauder (v. octroi).</p>
+        <p/>
+        <p><hi rend="b">DOULEUR : </hi>A toujours un résultat favorable. La véritable est toujours contenue.</p>
+        <p/>
+        <p><hi rend="b">DOUTE : </hi>Pire que la négation.</p>
+        <p/>
+        <p><hi rend="b">DRAP : </hi>Tous les draps viennent d’Elbeuf.</p>
+        <p/>
+        <p><hi rend="b">DRAPEAU national : </hi>Sa vue fait battre le cœur.</p>
+        <p/>
+        <p><hi rend="b">DROIT (le) : </hi>On ne sait pas ce que c’est.</p>
+        <p/>
+        <p><hi rend="b">DRÔLE : </hi>Doit s’employer à tout propos : « C’est drôle. »</p>
+        <p/>
+        <p><hi rend="b">DUEL : </hi>Tonner contre. N’est pas une preuve de courage. Prestige de l’homme qui a eu un duel.</p>
+        <p/>
+        <p><hi rend="b">DUPE : </hi>Mieux vaut être fripon que dupe.</p>
+        <p/>
+        <p><hi rend="b">DUPUYTREN : </hi>Célèbre par sa pommade et son musée.</p>
+        <p/>
+        <p><hi rend="b">DUR : </hi>Ajouter invariablement comme du fer. Il y a bien dur comme la pierre, mas c’est moins énergique.</p>
+      </div>
+      <div>
+        <head>E</head>
+        <p><hi rend="b">EAU : </hi>L’eau de Paris donne des coliques. L’eau de mer soutient pour nager. L’eau de Cologne sent bon.</p>
+        <p/>
+        <p><hi rend="b">ÉBÉNISTE : </hi>Ouvrier qui travaille surtout l’acajou.</p>
+        <p><hi rend="b">ÉCHAFAUD : </hi>S’arranger quand on y monte pour prononcer quelques mots éloquents avant de mourir.</p>
+        <p/>
+        <p><hi rend="b">ÉCHARPE : </hi>Poétique.</p>
+        <p/>
+        <p><hi rend="b">ÉCHECS (jeu des) : </hi>Image de la tactique militaire. Tous les grands capitaines y étaient forts. Trop sérieux pour un jeu, trop futile pour une science.</p>
+        <p/>
+        <p><hi rend="b">ÉCHO : </hi>Citer ceux du Panthéon et du pont de Neuilly.</p>
+        <p/>
+        <p><hi rend="b">ÉCLECTISME : </hi>Tonner contre comme étant une philosophie immorale.</p>
+        <p/>
+        <p><hi rend="b">ÉCOLES : </hi>Polytechnique, rêve de toutes les mères (<emph>vieux</emph>). Terreur du bourgeois dans les émeutes quand il apprend que l’Ecole Polytechnique sympathise avec les ouvriers (<emph>vieux</emph>). Dire simplement « l’Ecole »  fait accroire qu’on y a été. A Saint-Cyr : jeunes gens nobles. A l’Ecole de Médecine : tous exaltés. A l’Ecole de Droit : jeunes gens de bonne famille.</p>
+        <p/>
+        <p><hi rend="b">ÉCONOMIE : </hi>Toujours précédé de « ordre » . Mène à la fortune. Citer l’anecdote de Laffitte ramassant une épingle dans la cour du banquier Perrégaux.</p>
+        <p/>
+        <p><hi rend="b">ÉCONOMIE POLITIQUE : </hi>Science sans entrailles.</p>
+        <p/>
+        <p><hi rend="b">ÉCREVISSE : </hi>Marche à reculons. Toujours appeler les réactionnaires des écrevisses.</p>
+        <p/>
+        <p><hi rend="b">ÉCRIRE : </hi><emph>Currente calamo</emph>, c’est l’excuse pour les fautes de style ou d’orthographe.</p>
+        <p/>
+        <p><hi rend="b">ÉCRIT, BIEN ÉCRIT : </hi>Mots de portier, pour désigner les romans-feuilletons qui les amusent.</p>
+        <p/>
+        <p><hi rend="b">ÉCRITURE : </hi>Une belle écriture mène à tout. Indéchiffrable : signe de science. Ex. : les ordonnances des médecins.</p>
+        <p/>
+        <p><hi rend="b">ÉCUME DE MER : </hi>Se trouve dans la terre. On en fait des pipes.</p>
+        <p/>
+        <p><hi rend="b">ÉDILES : </hi>Tonner contre à propos du pavage des rues. « A quoi songent nos édiles ? »</p>
+        <p/>
+        <p><hi rend="b">ÉGOÏSME : </hi>Se plaindre de celui des autres et ne pas s’apercevoir du sien.</p>
+        <p/>
+        <p><hi rend="b">ÉLÉPHANTS : </hi>Se distinguent par leur mémoire, et adorent le soleil.</p>
+        <p/>
+        <p><hi rend="b">ÉMAIL : </hi>Le secret en est perdu.</p>
+        <p/>
+        <p><hi rend="b">EMBONPOINT : </hi>Signe de richesse et de fainéantise.</p>
+        <p/>
+        <p><hi rend="b">ÉMIGRÉS : </hi>Gagnaient leur vie à donner des leçons de guitare et à faire la salade.</p>
+        <p/>
+        <p><hi rend="b">ÉMIR : </hi>Ne se dit qu’en parlant d’Abd-el-Kader.</p>
+        <p/>
+        <p><hi rend="b">EMPIRE :</hi> « L’Empire c’est la paix. »  (Napoléon III.)</p>
+        <p/>
+        <p><hi rend="b">ENCEINTE : </hi>Fait bien dans les discours officiels : « Messieurs, dans cette enceinte... »</p>
+        <p/>
+        <p><hi rend="b">ENCRIER : </hi>Se donne en cadeau à un médecin.</p>
+        <p/>
+        <p><hi rend="b">ENCYCLOPÉDIE : </hi>En rire de pitié, comme étant un ouvrage rococo, et même tonner contre.</p>
+        <p><hi rend="b">ENFANTS : </hi>Affecter pour eux une tendresse lyrique, quand il y a du monde.</p>
+        <p/>
+        <p><hi rend="b">ENGELURE : </hi>Signe de santé : vient de s’être chauffé quand on avait froid.</p>
+        <p/>
+        <p><hi rend="b">ENTERREMENT : </hi>A propos du défunt : « Et dire que je dînais avec lui il y a huit jours ! »  S’appelle obsèques quand il s’agit d’un général, enfouissement quand c’est celui d’un philosophe.</p>
+        <p/>
+        <p><hi rend="b">ENTHOUSIASME : </hi>Ne peut être provoqué que par le retour des cendres de l’Empereur. Toujours impossible à décrire, et pendant deux colonnes le journal ne parle que de ça.</p>
+        <p/>
+        <p><hi rend="b">ENTRACTE : </hi>Toujours trop long.</p>
+        <p/>
+        <p><hi rend="b">ENVERGURE : </hi>Se disputer sur la prononciation du mot.</p>
+        <p/>
+        <p><hi rend="b">ÉPACTE, NOMBRE D’OR, LETTRE DOMINICALE : </hi>Sur les calendriers, on ne sait pas ce que c’est.</p>
+        <p/>
+        <p><hi rend="b">ÉPARGNE (Caisse d’) : </hi>Occasion de vol pour les domestiques.</p>
+        <p/>
+        <p><hi rend="b">ÉPÉE : </hi>On ne connaît que celle de Damoclès. Regretter le temps où on en portait. « Brave comme une épée. »  Quelquefois elle n’a jamais servi.</p>
+        <p/>
+        <p><hi rend="b">ÉPÉRONS : </hi>Font bien à une paire de bottes.</p>
+        <p/>
+        <p><hi rend="b">ÉPICURE : </hi>Le mépriser.</p>
+        <p/>
+        <p><hi rend="b">ÉPINARDS : </hi>Sont le balai de l’estomac. Ne jamais rater la phrase célèbre de Prudhomme : « Je ne les aime pas, j’en suis bien aise, car si je les aimais, j’en mangerai et je ne puis pas les souffrir. »  (Il y en a qui trouveront cela parfaitement logique et qui ne riront pas).</p>
+        <p/>
+        <p><hi rend="b">ÉPOQUE (la nôtre) : </hi>Tonner contre elle. Se plaindre de ce qu’elle n’est pas poétique. L’appeler époque de transition, de décadence.</p>
+        <p/>
+        <p><hi rend="b">ÉPUISEMENT : </hi>Toujours prématuré.</p>
+        <p/>
+        <p><hi rend="b">ÉQUITATION : </hi>Bon exercice pour faire maigrir. Ex. : tous les soldats de cavalerie sont maigres. Bon exercice pour engraisser. Ex. : tous les officiers de cavalerie ont un gros ventre. « Il monte à cheval comme un vrai centaure. »</p>
+        <p/>
+        <p><hi rend="b">ÈRE (des révolutions) : </hi>Toujours ouverte puisque chaque nouveau gouvernement promet de la fermer.</p>
+        <p/>
+        <p><hi rend="b">ÉRECTION : </hi>Ne se dit qu’en parlant des monuments.</p>
+        <p/>
+        <p><hi rend="b">ÉRUDITION : </hi>La mépriser comme étant la marque d’un esprit étroit.</p>
+        <p/>
+        <p><hi rend="b">ESCRIME : </hi>Les maîtres d’escrime savent des bottes secrètes.</p>
+        <p/>
+        <p><hi rend="b">ESCROC : </hi>Toujours du grand monde (v. espion).</p>
+        <p/>
+        <p><hi rend="b">ESPION : </hi>Toujours du grand monde (v. escroc).</p>
+        <p/>
+        <p><hi rend="b">ESPLANADE : </hi>Ne se voit qu’aux Invalides.</p>
+        <p/>
+        <p><hi rend="b">ESPRIT : </hi>Toujours suivi d’étincelant. Court les rues. Les beaux esprits se rencontrent.</p>
+        <p/>
+        <p><hi rend="b">ESTOMAC : </hi>Toutes les maladies viennent de l’estomac.</p>
+        <p/>
+        <p><hi rend="b">ÉTAGÈRE : </hi>Indispensable chez une jolie femme.</p>
+        <p/>
+        <p><hi rend="b">ÉTALON : </hi>Toujours vigoureux. Une femme doit ignorer la différence qu’il y a entre un étalon et un cheval.</p>
+        <p/>
+        <p><hi rend="b">ÉTÉ : </hi>Toujours exceptionnel (v. hiver).</p>
+        <p/>
+        <p><hi rend="b">ÉTERNUEMENT : </hi>Après qu’on a dit : « Dieu vous bénisse » , engager une discussion sur l’origine de cet usage.</p>
+        <p/>
+        <p><hi rend="b">ÉTERNUER : </hi>C’est une raillerie spirituelle de dire : le russe et le polonais ne se parlent pas, ça s’éternue.</p>
+        <p/>
+        <p><hi rend="b">ÉTOILE : </hi>Chacun a la sienne, comme l’Empereur.</p>
+        <p/>
+        <p><hi rend="b">ÉTRANGER : </hi>Engouement pour tout ce qui vient de l’étranger, preuve de l’esprit libéral. Dénigrement de tout ce qui n’est pas français, preuve de patriotisme.</p>
+        <p/>
+        <p><hi rend="b">ÉTRENNES : </hi>S’indigner contre.</p>
+        <p/>
+        <p><hi rend="b">ÉTRUSQUE : </hi>Tous les vases anciens sont étrusques.</p>
+        <p/>
+        <p><hi rend="b">ÉTUDIANT : </hi>Portent tous des bérets rouges, des pantalons à la hussarde, fumant la pipe dans la rue et n’étudie pas.</p>
+        <p/>
+        <p><hi rend="b">ÉTYMOLOGIE : </hi>Rien de plus facile à trouver avec le latin et un peu de réflexion.</p>
+        <p/>
+        <p><hi rend="b">EUNUQUE : </hi>N’a jamais d’enfants... Fulminer contre les castrats de la chapelle Sixtine.</p>
+        <p/>
+        <p><hi rend="b">ÉVACUATIONS : </hi>Les évacuations sont souvent copieuses et toujours de mauvaise nature.</p>
+        <p/>
+        <p><hi rend="b">ÉVANGILES : </hi>Livres divins, sublimes, etc.</p>
+        <p/>
+        <p><hi rend="b">ÉVIDENCE : </hi>Vous aveugle, quand elle ne crève pas les yeux.</p>
+        <p/>
+        <p><hi rend="b">EXASPÉRATION : </hi>Constamment à son comble.</p>
+        <p/>
+        <p><hi rend="b">EXCEPTION : </hi>Dites qu’elle confirme la règle. Ne vous risquez pas à expliquer comment.</p>
+        <p/>
+        <p><hi rend="b">EXÉCUTIONS CAPITALES : </hi>Se plaindre des femmes qui vont les voir.</p>
+        <p/>
+        <p><hi rend="b">EXERCICE : </hi>Préserve de toutes les maladies : toujours conseiller d’en faire.</p>
+        <p/>
+        <p><hi rend="b">EXPIRER : </hi>Ne se conjugue qu’à propos des abonnements de journaux.</p>
+        <p/>
+        <p><hi rend="b">EXPOSITION : </hi>Sujet de délire du XIX<hi rend="sup">e</hi> siècle.</p>
+        <p/>
+        <p><hi rend="b">EXTINCTION : </hi>Ne s’emploie qu’avec paupérisme.</p>
+        <p/>
+        <p><hi rend="b">EXTIRPER : </hi>Ce verbe ne s’emploie que pour les hérésies et les cors aux pieds.</p>
+      </div>
+      <div>
+        <head>F</head>
+        <p><hi rend="b">FABRIQUE : </hi>Voisinage dangereux.</p>
+        <p/>
+        <p><hi rend="b">FACTURE : </hi>Toujours trop élevé.</p>
+        <p/>
+        <p><hi rend="b">FAÏENCE : </hi>Plus chic que la porcelaine.</p>
+        <p/>
+        <p><hi rend="b">FAISAN : </hi>Très chic dans un dîner.</p>
+        <p/>
+        <p><hi rend="b">FAISCEAUX : </hi>A former, est le comble de la difficulté dans la garde nationale.</p>
+        <p/>
+        <p><hi rend="b">FANFARE : </hi>Toujours joyeuse.</p>
+        <p/>
+        <p><hi rend="b">FARCE : </hi>Il faut en faire lorsqu’on est en partie de campagne avec des dames.</p>
+        <p/>
+        <p><hi rend="b">FARD : </hi>Abîme la peau.</p>
+        <p/>
+        <p><hi rend="b">FATALITÉ : </hi>Mot exclusivement romantique. Homme fatal se dit de celui qui a le mauvais œil.</p>
+        <p/>
+        <p><hi rend="b">FAUBOURGS : </hi>Terribles dans les révolutions.</p>
+        <p/>
+        <p><hi rend="b">FAUTE :</hi> « C’est pire qu’un crime, c’est une faute. »  (Talleyrand.) « Il n’y a plus une seule faute à commettre. »  (Thiers.) Ces deux phrases doivent être articulées avec profondeur.</p>
+        <p/>
+        <p><hi rend="b">FAUX-MONNAYEURS : </hi>Travaillent toujours dans les souterrains.</p>
+        <p/>
+        <p><hi rend="b">FÉLICITATIONS : </hi>Toujours sincères, empressées, cordiales, etc.</p>
+        <p/>
+        <p><hi rend="b">FÉLICITÉ : </hi>Toujours parfaite. Votre bonne se nomme Félicité, alors elle est parfaite.</p>
+        <p/>
+        <p><hi rend="b">FEMELLE : </hi>A n’employer qu’en parlant des animaux. Contrairement à ce qui existe dans l’espèce humaine, les femelles des animaux sont moins belles que les mâles. Ex. : faisan, coq, lion, etc.</p>
+        <p/>
+        <p><hi rend="b">FEMME</hi> : Personne du sexe. Une des côtes d’Adam. Na dites pas : « ma femme » , mais « mon épouse » , ou mieux encore, « ma moitié » .</p>
+        <p><hi rend="b">FEMMES DE CHAMBRE : </hi>Plus jolies que leur maîtresses. Connaissent tous leurs secrets et les trahissent. Toujours déshonorées par le fils de la maison.</p>
+        <p/>
+        <p><hi rend="b">FÉODALITÉ : </hi>N’en avoir aucune idée précise mais tonner contre.</p>
+        <p/>
+        <p><hi rend="b">FERME</hi> (<emph>adjectif</emph>)<hi rend="b"> : </hi>Toujours suivi de « comme un roc » .</p>
+        <p/>
+        <p><hi rend="b">FERME</hi> (<emph>subst</emph>.)<hi rend="b"> : </hi>Lorsqu’on visite une ferme, on ne doit y manger que du pain bis et ne boire que du lait. Si on ajoute des œufs, s’écrier : « Dieu ! comme ils sont frais ! Il n’y a pas de danger pour qu’on en trouve de comme ça à la ville. »</p>
+        <p/>
+        <p><hi rend="b">FERMÉ : </hi>Toujours précédé de hermétiquement.</p>
+        <p/>
+        <p><hi rend="b">FERMIER : </hi>Toujours lui dire : Maître un tel. Les fermiers sont tous à leur aise.</p>
+        <p/>
+        <p><hi rend="b">FEU</hi> (<emph>subst</emph>.)<hi rend="b"> : </hi>Purifie tout. Quand on entend crier « au feu ! »  on doit commencer par perdre la tête.</p>
+        <p/>
+        <p><hi rend="b">FEU</hi> (<emph>adj</emph>.)<hi rend="b"> : </hi>Feu mon père, et on soulève son chapeau.</p>
+        <p/>
+        <p><hi rend="b">FEUILLE DE VIGNE : </hi>Emblème de la virilité dans l’art de la sculpture.</p>
+        <p/>
+        <p><hi rend="b">FEUILLETONS : </hi>Cause de démoralisation. Se disputer sur le dénouement probable. Ecrire à l’auteur pour lui fournir des idées. Fureur quand on y trouve un nom pareil au sien.</p>
+        <p/>
+        <p><hi rend="b">FIDÈLE : </hi>Inséparable d’ami et de chien. Ne pas manquer de citer les deux vers : <emph>Oui puisque je retrouve un ami si fidèle, Ma fortune</emph>, etc.</p>
+        <p/>
+        <p><hi rend="b">FIÈVRE : </hi>Preuve de la force du sang. Est causée par les prunes, le melon, le soleil d’avril, etc.</p>
+        <p/>
+        <p><hi rend="b">FIGARO (Le Mariage de)</hi> : Encore une des causes de la Révolution !</p>
+        <p/>
+        <p><hi rend="b">FIGURE : </hi>Une figure agréable est le plus sûr des passeports.</p>
+        <p/>
+        <p><hi rend="b">FLAGRANT DÉLIT : </hi>Prononcer<emph> flagrante delicto</emph>. Ne s’emploie que pour les cas d’adultère.</p>
+        <p/>
+        <p><hi rend="b">FLAMANT : </hi>Oiseau ainsi nommé parce qu’il vient des Flandres.</p>
+        <p/>
+        <p><hi rend="b">FLATTEUR : </hi>Ne jamais manquer la citation : <emph>Détestables flatteurs, présent le plus funeste - Que puisse faire aux rois la colère céleste</emph> ! ou bien : <emph>Apprenez que tout flatteur - Vit aux dépens de celui qui l’écoute</emph>.</p>
+        <p/>
+        <p><hi rend="b">FLEGME : </hi>Bon genre, et puis ça donne l’air anglais. Toujours suivi de imperturbable.</p>
+        <p/>
+        <p><hi rend="b">FŒTUS : </hi>Toute pièce anatomique conservée dans l’esprit de vin.</p>
+        <p/>
+        <p><hi rend="b">FOLLICULAIRES : </hi>Les journalistes. Quand on ajoute de bas étage, c’est le comble du mépris.</p>
+        <p/>
+        <p><hi rend="b">FONCTIONNAIRE : </hi>Inspire le respect quelle que soit la fonction qu’il remplisse.</p>
+        <p/>
+        <p><hi rend="b">FONDEMENT : </hi>Toutes les nouvelles en manquent.</p>
+        <p/>
+        <p><hi rend="b">FONDS SECRETS : </hi>Sommes incalculables avec lesquelles les ministres achètent les consciences. S’indigner contre.</p>
+        <p/>
+        <p><hi rend="b">FORCATS : </hi>Ont toujours une figure patibulaire. Tous très adroits de leurs mains. Au bagne, il y a des hommes de génie.</p>
+        <p/>
+        <p><hi rend="b">FORCE : </hi>Toujours herculéenne. La force prime le droit (Bismarck).</p>
+        <p/>
+        <p><hi rend="b">FORNARINA : </hi>C’était une belle femme ; inutile d’en savoir plus long.</p>
+        <p/>
+        <p><hi rend="b">FORT : </hi>Comme un Turc, un bœuf, un cheval, comme Hercule. Cet homme doit être fort, il est tout de nerfs.</p>
+        <p/>
+        <p><hi rend="b">FORTUNE : </hi><emph>Audaces fortuna juvat</emph>. Ils sont heureux les riches, ils ont de la fortune. Quand on vous parle d’une grande fortune, ne pas manquer de dire : « Oui, mais est-elle bien sûre ? »</p>
+        <p/>
+        <p><hi rend="b">FOSSETTES : </hi>On doit toujours dire à une jolie fille qu’elle a des amours nichés dans ses fossettes.</p>
+        <p/>
+        <p><hi rend="b">FOSSILES : </hi>Preuve du déluge. Plaisanterie de bon goût, en parlant d’un académicien.</p>
+        <p/>
+        <p><hi rend="b">FOUDRES du Vatican : </hi>En rire.</p>
+        <p/>
+        <p><hi rend="b">FOULARD : </hi>Il est « comme il faut »  de se moucher dedans.</p>
+        <p/>
+        <p><hi rend="b">FOULE : </hi>A toujours de bons instincts. <emph>Turba ruit</emph> ou <emph>ruunt</emph>. La vile multitude (Thiers.)
+<lb/><emph>Le peuple saint en foule inondait les portiques</emph>... , etc.</p>
+        <p/>
+        <p><hi rend="b">FOURCHETTE : </hi>Doit toujours être en argent, c’est moins dangereux. On doit s’en servir avec la main gauche, c’est plus commode et plus distingué.</p>
+        <p/>
+        <p><hi rend="b">FOURMIS : </hi>Bel exemple à citer devant un dissipateur. Ont donné l’idée des caisses d’épargne.</p>
+        <p><hi rend="b">FOURRURE : </hi>Signe de richesse.</p>
+        <p/>
+        <p><hi rend="b">FOUTRE : </hi>N’employer de mot que pour jurer, et encore ! (v. Docteur).</p>
+        <p/>
+        <p><hi rend="b">FRANÇAIS : </hi>Le premier peuple de l’univers. « Il n’y a qu’un Français de plus » , a dit le comte d’Artois. <emph>Ah ! qu’on est fier d’être Français, - Quand on regarde la colonne</emph> !</p>
+        <p/>
+        <p><hi rend="b">FRANC-MACONNERIE : </hi>Encore une des causes de la Révolution ! Les épreuves de l’initiation sont terribles. Cause de dispute dans les ménages. Mal vue des ecclésiastiques. Quel peut bien être son secret ?</p>
+        <p/>
+        <p><hi rend="b">FRANCS-TIREURS : </hi>Plus terribles que l’ennemi.</p>
+        <p/>
+        <p><hi rend="b">FRAUDER : </hi>Frauder l’octroi n’est pas tromper, c’est une preuve d’esprit et d’indépendance politique.</p>
+        <p/>
+        <p><hi rend="b">FRESQUE : </hi>On n’en fait plus.</p>
+        <p/>
+        <p><hi rend="b">FRICASSÉE : </hi>Ne se fait bien qu’à la campagne.</p>
+        <p/>
+        <p><hi rend="b">FRISER, FRISURE : </hi>Ne convient pas à un homme.</p>
+        <p/>
+        <p><hi rend="b">FROID : </hi>Plus sain que la chaleur.</p>
+        <p/>
+        <p><hi rend="b">FROMAGE : </hi>Citer l’aphorisme de Brillat-Savarin : « Un dessert sans fromage est une belle à qui il manque un œil. »</p>
+        <p/>
+        <p><hi rend="b">FRONT : </hi>Large et chauve, signe de génie ou d’aplomb.</p>
+        <p/>
+        <p><hi rend="b">FRONTISPICE : </hi>Les grands hommes font bien dessus.</p>
+        <p/>
+        <p><hi rend="b">FRUSTE : </hi>Tout ce qui antique est fruste, et tout ce qui est fruste est antique. Bien se le rappeler quand on achète des antiquités.</p>
+        <p/>
+        <p><hi rend="b">FUGUE : </hi>On ignore en quoi cela consiste, mais il faut affirmer que c’est fort difficile et très ennuyeux.</p>
+        <p/>
+        <p><hi rend="b">FULMINER : </hi>Joli verbe.</p>
+        <p/>
+        <p><hi rend="b">FURIE FRANÇAISE : </hi>Toujours prononcer <emph>furia francese</emph>.</p>
+        <p/>
+        <p><hi rend="b">FURONCLE : </hi>V. boutons.</p>
+        <p/>
+        <p><hi rend="b">FUSIL : </hi>Toujours en avoir un à la campagne.</p>
+        <p/>
+        <p><hi rend="b">FUSILLADE : </hi>Seule manière de faire taire les Parisiens.</p>
+        <p/>
+        <p><hi rend="b">FUSILLER : </hi>Plus noble que guillotiner. Joie de l’individu à qui on accorde cette faveur.</p>
+        <p/>
+        <p><hi rend="b">FUSION des branches royales : </hi>L’espérer toujours.</p>
+      </div>
+      <div>
+        <head>G</head>
+        <p><hi rend="b">GAGNE-PETIT : </hi>Belle enseigne pour une boutique, comme inspirant la confiance.</p>
+        <p/>
+        <p><hi rend="b">GAIETÉ : </hi>Toujours accompagnée de folle.</p>
+        <p/>
+        <p><hi rend="b">GALANT HOMME : </hi>Suivant les circonstances prononcer <emph>galantuomo</emph> ou <emph>gentleman</emph>.</p>
+        <p/>
+        <p><hi rend="b">GALBE : </hi>Dire devant toute statue qu’on examine : « Ca manque de galbe. »</p>
+        <p/>
+        <p><hi rend="b">GALETS : </hi>Il faut en rapporter de la mer.</p>
+        <p><hi rend="b">GALLOPHOBE : </hi>Se servie de cette expression en parlant des journalistes allemands.</p>
+        <p/>
+        <p><hi rend="b">GAMIN : </hi>Toujours de Paris. Ne jamais laisser sa femme dire : « Quand je suis gaie, j’aime à faire le gamin. »</p>
+        <p/>
+        <p><hi rend="b">GANTS : </hi>Donnent l’air comme il faut.</p>
+        <p/>
+        <p><hi rend="b">GARDE : </hi>La garde meurt et ne se rend pas ! Huit mots pour remplacer cinq lettres.</p>
+        <p/>
+        <p><hi rend="b">GARDE-COTE : </hi>Ne jamais employer cette expression au pluriel en parlant des seins d’une femme.</p>
+        <p/>
+        <p><hi rend="b">GARES de chemin de fer : </hi>S’extasier devant elles et les donner comme modèles d’architecture.</p>
+        <p/>
+        <p><hi rend="b">GAUCHERS : </hi>Terribles à l’escrime. Plus adroits que ceux qui se servent de la main droite.</p>
+        <p/>
+        <p><hi rend="b">GENDARME : </hi>Rempart de la société.</p>
+        <p/>
+        <p><hi rend="b">GENDARMERIE : </hi>Dites : force publique ou maréchaussée.</p>
+        <p/>
+        <p><hi rend="b">GENDRE : </hi>Mon gendre, tout est rompu !</p>
+        <p/>
+        <p><hi rend="b">GÉNÉRATION SPONTANÉE : </hi>Idée de socialiste.</p>
+        <p/>
+        <p><hi rend="b">GÉNÉRAL : </hi>Est toujours brave. Fait généralement ce qui ne concerne pas son état, comme être ambassadeur, conseiller municipal ou chef de gouvernement.</p>
+        <p/>
+        <p><hi rend="b">GÉNIE (le) : </hi>Inutile de l’admirer, c’est une « névrose » .</p>
+        <p><hi rend="b">GENOVEFAIN : </hi>On ne sait pas ce que c’est.</p>
+        <p/>
+        <p><hi rend="b">GENRE ÉPISTOLAIRE : </hi>Genre de style exclusivement réservé aux femmes.</p>
+        <p/>
+        <p><hi rend="b">GENTILHOMME : </hi>Il n’y en a plus.</p>
+        <p/>
+        <p><hi rend="b">GÉOMÈTRE :</hi> « Nul n’entre ici s’il n’est géomètre. »</p>
+        <p/>
+        <p><hi rend="b">GIAOUR : </hi>Expression farouche, d’une signification inconnue, mais on sait que ça se rapporte à l’Orient.</p>
+        <p/>
+        <p><hi rend="b">GIBELOTTE : </hi>Toujours faite avec du chat.</p>
+        <p/>
+        <p><hi rend="b">GIBERNE : </hi>Etui pour bâton de maréchal de France.</p>
+        <p/>
+        <p><hi rend="b">GIBIER : </hi>N’est bon que faisandé.</p>
+        <p/>
+        <p><hi rend="b">GIRAFE : </hi>Mot poli pour ne pas appeler une femme chameau.</p>
+        <p/>
+        <p><hi rend="b">GIRONDINS : </hi>Plus à plaindre qu’à blâmer.</p>
+        <p/>
+        <p><hi rend="b">GLACES : </hi>Il est dangereux d’en prendre.</p>
+        <p/>
+        <p><hi rend="b">GLACIERS : </hi>Tous Napolitains.</p>
+        <p/>
+        <p><hi rend="b">GLÈBE (la) : </hi>S’apitoyer sur la glèbe.</p>
+        <p/>
+        <p><hi rend="b">GLOBE : </hi>Mot pudique pour désigner les seins d’une femme. « Laissez-moi baiser vos globes adorables. »</p>
+        <p/>
+        <p><hi rend="b">GLOIRE : </hi>N’est qu’un peu de fumée.</p>
+        <p/>
+        <p><hi rend="b">GLORIA : </hi>Un <emph>gloria</emph> ne marche jamais sans sa <emph>consolation</emph>.</p>
+        <p/>
+        <p><hi rend="b">GOBELINS (tapisserie des) : </hi>Est une œuvre inouïe et qui demande cinquante ans à finir. S’écrier devant : « C’est plus beau que la peinture ! »  L’ouvrier en sait pas ce qu’il fait.</p>
+        <p/>
+        <p><hi rend="b">GODDAM :</hi> « C’est le fond de la langue anglaise » , comme disait Beaumarchais, et là-dessus on ricane de pitié.</p>
+        <p/>
+        <p><hi rend="b">GOD SAVE THE KING : </hi>Chez Béranger se prononce « God savé te King »  et rime avec sauvé, préservé...</p>
+        <p/>
+        <p><hi rend="b">GOG : </hi>Toujours suivi de Magog.</p>
+        <p/>
+        <p><hi rend="b">GOMME ÉLASTIQUE : </hi>Est faite avec le scrotum de cheval.</p>
+        <p/>
+        <p><hi rend="b">GOTHIQUE : </hi>Style d’architecture portant plus à la religion que les autres.</p>
+        <p/>
+        <p><hi rend="b">GOURMÉ : </hi>Toujours précédé de raide.</p>
+        <p/>
+        <p><hi rend="b">GOÛT : </hi>Ce qui est simple est toujours de bon goût. Doit toujours se dire à une femme qui s’excuse de la modestie de sa toilette.</p>
+        <p/>
+        <p><hi rend="b">GRAMMAIRE : </hi>L’apprendre aux enfants dès le plus bas âge comme étant une chose claire et facile.</p>
+        <p/>
+        <p><hi rend="b">GRAMMAIRIENS : </hi>Tous pédants.</p>
+        <p/>
+        <p><hi rend="b">GRAS : </hi>Les personnes grasses n’ont pas besoin d’apprendre à nager. Font le désespoir des bourreaux parce qu’elles offrent des difficultés d’exécution. Ex. : la Du Barry.</p>
+        <p/>
+        <p><hi rend="b">GRÊLÉ : </hi>Les femmes grêlées sont toutes lascives.</p>
+        <p/>
+        <p><hi rend="b">GRENIER : </hi>On y est bien à vingt ans !</p>
+        <p><hi rend="b">GRENOUILLE : </hi>La femelle du crapaud.</p>
+        <p/>
+        <p><hi rend="b">GRISETTES : </hi>Il n’y a plus de grisettes. Cela doit être dit avec l’air déconfit du chasseur qui se plaint qu’il n’y a plus de gibier.</p>
+        <p/>
+        <p><hi rend="b">GROG : </hi>Pas comme il faut.</p>
+        <p/>
+        <p><hi rend="b">GROTTES À STALACTITES : </hi>Il y a eu dedans une fête célèbre, bal ou souper, donné par un grand personnage. On y voit « comme des tuyaux d’orgue » . On y a dit la messe pendant la Révolution.</p>
+        <p/>
+        <p><hi rend="b">GROUPE : </hi>Convient sur une cheminée et en politique.</p>
+        <p/>
+        <p><hi rend="b">GUÉRILLA : </hi>Fait plus de mal à l’ennemi que l’armée régulière.</p>
+        <p/>
+        <p><hi rend="b">GUERRE : </hi>Tonner contre.</p>
+        <p/>
+        <p><hi rend="b">GULF-STREAM : </hi>Ville célèbre de Norvège, nouvellement découverte.</p>
+        <p/>
+        <p><hi rend="b">GYMNASE (le) : </hi>Succursale de la Comédie-Française.</p>
+        <p/>
+        <p><hi rend="b">GYMNASTIQUE : </hi>On ne saurait trop en faire. Exténue les enfants.</p>
+      </div>
+      <div>
+        <head>H</head>
+        <p><hi rend="b">HABIT NOIR : </hi>Il faut dire frac, excepté dans le proverbe « l’habit ne fait pas le moine » , auquel cas il faut dire froc. En province, est le dernier terme de la cérémonie et du dérangement.</p>
+        <p/>
+        <p><hi rend="b">HABITUDE : </hi>Est une seconde nature. Les habitudes de collège sont de mauvaises habitudes. Avec de l’habitude on peut jouer du violon comme Paganini.</p>
+        <p/>
+        <p><hi rend="b">HACHISCH : </hi>Ne pas confondre avec le hachis, qui ne provoque aucune extase voluptueuse.</p>
+        <p/>
+        <p><hi rend="b">HALEINE : </hi>L’avoir forte donne l’air distingué. Eviter les allusions sur les mouches et affirmer que ça vient de l’estomac.</p>
+        <p/>
+        <p><hi rend="b">HALLEBARDE : </hi>Quand on voit un nuage menaçant, na pas manquer de dire : « Il va tomber des hallebardes.  »  En Suisse, tous les hommes portent des hallebardes.</p>
+        <p/>
+        <p><hi rend="b">HALLIER : </hi>Toujours sombre et impénétrable.</p>
+        <p/>
+        <p><hi rend="b">HAMAC : </hi>Propre aux créoles. Indispensable dans un jardin. Se persuader qu’on y est mieux que dans un lit.</p>
+        <p/>
+        <p><hi rend="b">HAMEAU : </hi>Substantif attendrissant. Fait bien en poésie.</p>
+        <p/>
+        <p><hi rend="b">HANNETONS : </hi>Fils du printemps. Beau sujet d’opuscule. Leur destruction radicale est le rêve de tout préfet ; quand on parle de leurs ravages dans un discours de comice agricole, il faut les traiter de « funestes coléoptères » .</p>
+        <p/>
+        <p><hi rend="b">HAQUENÉE : </hi>Animal blanc du Moyen Âge dont la race est disparue.</p>
+        <p/>
+        <p><hi rend="b">HARAS : </hi>La question des haras, beau sujet de discussion parlementaire.</p>
+        <p/>
+        <p><hi rend="b">HAREM : </hi>Comparer toujours un coq au milieu de ses poules à un sultan dans son harem. Rêve de tous les collégiens.</p>
+        <p/>
+        <p><hi rend="b">HARENGS : </hi>Fortune de la Hollande.</p>
+        <p/>
+        <p><hi rend="b">HARPE : </hi>Produit des harmonies céleste. Ne se joue, en gravure, que sur des ruines ou au bord d’un torrent. Fait valoir le bras et la main.</p>
+        <p/>
+        <p><hi rend="b">HEBREU : </hi>Est hébreu tout ce qu’on ne comprend pas.</p>
+        <p/>
+        <p><hi rend="b">HEIDUQUE : </hi>Le confondre avec eunuque.</p>
+        <p/>
+        <p><hi rend="b">HÉLICE : </hi>Avenir de la mécanique.</p>
+        <p/>
+        <p><hi rend="b">HÉMICYCLE : </hi>Ne connaître que celui des Beaux-Arts.</p>
+        <p/>
+        <p><hi rend="b">HÉMORROÏDES : </hi>Vient de s’asseoir sur les poêles et sur les bancs de pierre. 
+<lb/>Mal de Saint-Fiacre. Les hémorroïdes sont un signe de santé, il ne faut donc pas les faire passer.</p>
+        <p/>
+        <p><hi rend="b">HENRI III, HENRI IV : </hi>A propos de ces deux rois ne pas manquer de dire : Tous les Henri ont été malheureux.  »</p>
+        <p/>
+        <p><hi rend="b">HERCULE : </hi>Les Hercules sont du Nord.</p>
+        <p/>
+        <p><hi rend="b">HERMAPHRODITE : </hi>Excite la curiosité malsaine. Chercher à en voir.</p>
+        <p/>
+        <p><hi rend="b">HERNIE : </hi>Tout le monde en a sans le savoir.</p>
+        <p/>
+        <p><hi rend="b">HÉRODE : </hi>Etre vieux comme Hérode.</p>
+        <p/>
+        <p><hi rend="b">HÉROSTRATE : </hi>A employer dans toute conversation sur les incendies de la Commune.</p>
+        <p/>
+        <p><hi rend="b">HEUREUX : </hi>En parlant d’un homme heureux : « Il est né coiffé.  »  On ne sait pas ce que ça signifie, et l’interlocuteur non plus.</p>
+        <p/>
+        <p><hi rend="b">HIATUS : </hi>Ne pas le tolérer.</p>
+        <p/>
+        <p><hi rend="b">HIÉROGLYPHES : </hi>Ancienne langue des Egyptiens, inventée par les prêtres pour cacher leurs secrets criminels. Et dire qu’il y a des gens qui les comprennent ! Après tout, c’est peut-être une blague ?</p>
+        <p/>
+        <p><hi rend="b">HIPPOCRATE : </hi>On doit toujours le citer en latin parce qu’il écrivait en grec, excepté dans cette phrase : « Hippocrate dit oui, mais Galien dis non.  »</p>
+        <p/>
+        <p><hi rend="b">HIPPOLYTE : </hi>La mort d’Hippolyte, le plus beau sujet de narration que l’on puisse donner. Tout le monde devrait savoir ce morceau par cœur.</p>
+        <p/>
+        <p><hi rend="b">HIRONDELLE : </hi>Ne jamais les appeler autrement que messagères du printemps. Comme on ignore d’où elles viennent, dire qu’elles arrivent « des bords lointains »  (poétique).</p>
+        <p/>
+        <p><hi rend="b">HISTRION : </hi>Toujours précédé de vil.</p>
+        <p/>
+        <p><hi rend="b">HIVER : </hi>Toujours exceptionnel (v. été). Est plus sain que les autres saisons.</p>
+        <p/>
+        <p><hi rend="b">HOBEREAUX de campagne : </hi>Avoir pour eux le plus souverain mépris.</p>
+        <p/>
+        <p><hi rend="b">HOMÈRE : </hi>N’a jamais existé. Célèbre par sa façon de rire.</p>
+        <p/>
+        <p><hi rend="b">HOMO : </hi>Dire <emph>Ecce homo</emph> ! en voyant entrer l’individu qu’on attend.</p>
+        <p/>
+        <p><hi rend="b">HONNEUR : </hi>Quand on en parle, faire la citation : <emph>L’honneur est comme une île escarpée et sans bords ; - On n’y peut plus rentrer dès qu’on en est dehors</emph>. Il faut toujours être soucieux du sien, mais peu de celui des autres.</p>
+        <p/>
+        <p><hi rend="b">HOQUET : </hi>Pour le guérir, une clef dans le dos ou une peur.</p>
+        <p><hi rend="b">HORIZONS : </hi>Trouver beaux ceux de la nature et sombres ceux de la politique.</p>
+        <p/>
+        <p><hi rend="b">HORREUR : </hi>Des horreurs ! en parlant d’expressions lubriques. On peut en faire mais on ne doit pas en dire. <emph>C’était pendant l’horreur d’une profonde nuit.</emph></p>
+        <p/>
+        <p><hi rend="b">HOSPITALITÉ : </hi>Doit toujours être écossaise. Citer les vers :</p>
+        <p><emph>Chez les montagnards écossais, 
+<lb/>L’hospitalité se donne</emph><lb/><emph>Mais ne se vend jamais.</emph> </p>
+        <p/>
+        <p><hi rend="b">HOSPODAR : </hi>Fait bien dans une phrase, à propos de « la question d’Orient » .</p>
+        <p/>
+        <p><hi rend="b">HOSTILITÉS : </hi>Les hostilités sont comme les huîtres, on les ouvre. « Les hostilités sont ouvertes » . Il semble qu’il n’y a plus qu’à se mettre à table.</p>
+        <p/>
+        <p><hi rend="b">HÔTELS : </hi>Ne sont bons qu’en Suisse.</p>
+        <p/>
+        <p><hi rend="b">HÔTES : </hi>Exemples à donner à son fils.</p>
+        <p/>
+        <p><hi rend="b">HUGO (VICTOR) : </hi>A eu bien tort, vraiment, de s’occuper de politique.</p>
+        <p/>
+        <p><hi rend="b">HUILE D’OLIVE : </hi>N’est jamais bonne. Il faut avoir un ami à Marseille, qui vous en fait venir un petit tonneau.</p>
+        <p/>
+        <p><hi rend="b">HUÎTRES : </hi>On n’en mange plus ! Elles sont trop chères !</p>
+        <p/>
+        <p><hi rend="b">HUMEUR : </hi>Se réjouir quand elle sort, et s’étonner que le corps humain puisse en contenir de si grandes quantités.</p>
+        <p/>
+        <p><hi rend="b">HUMIDITÉ : </hi>Cause de toute les maladies.</p>
+        <p/>
+        <p><hi rend="b">HUSSARD : </hi>Prononcer houzard. Toujours précédé de gentil ou de fringant. Il plaît aux dames. Ne pas manquer la citation : <emph>Toi qui connais les hussards de la garde</emph>...</p>
+        <p/>
+        <p><hi rend="b">HYDRE de l’anarchie, du socialisme et ainsi de suite pour tous les systèmes qui font peur : </hi>Tâcher de la vaincre.</p>
+        <p/>
+        <p><hi rend="b">HYDROTHÉRAPIE : </hi>Enlève toutes les maladies et les procure.</p>
+        <p/>
+        <p><hi rend="b">HYGIÈNE : </hi>Doit toujours être bien entretenue. Elle préserve des maladies, quand elle n’en est pas la cause.</p>
+        <p/>
+        <p><hi rend="b">HYPOTHÈQUE : </hi>Demander « la réforme du régime hypothécaire » , très chic.</p>
+        <p/>
+        <p><hi rend="b">HYPOTHÈSE : </hi>Souvent dangereuse, toujours hardie.</p>
+        <p/>
+        <p><hi rend="b">HYSTÉRIE : </hi>La confondre avec la nymphomanie.</p>
+      </div>
+      <div>
+        <head>I</head>
+        <p><hi rend="b">IDÉAL : </hi>Tout à fait inutile.</p>
+        <p/>
+        <p><hi rend="b">IDÉOLOGUES : </hi>Tous les journalistes le sont.</p>
+        <p/>
+        <p><hi rend="b">IDOLÂTRES : </hi>Sont cannibales.</p>
+        <p/>
+        <p><hi rend="b">ILIADE : </hi>Toujours suivie de <emph>l’Odyssée</emph>.</p>
+        <p/>
+        <p><hi rend="b">ILLISIBLE : </hi>Une ordonnance de médecin doit l’être. Toute signature <emph>idem</emph>. Cela indique qu’on est accablé de correspondance.</p>
+        <p/>
+        <p><hi rend="b">ILLUSIONS : </hi>Affecter d’en avoir beaucoup, se plaindre de ce qu’on les a perdues.</p>
+        <p/>
+        <p><hi rend="b">ILOTES : </hi>Exemple à donner à son fils, mais on ne sait où les trouver.</p>
+        <p/>
+        <p><hi rend="b">IMAGES : </hi>Il y en a toujours trop dans la poésie.</p>
+        <p/>
+        <p><hi rend="b">IMAGINATION : </hi>Toujours vive. S’en défier. Quand on n’en a pas, la dénigrer chez les autres. Pour écrire des romans, il suffit d’avoir de l’imagination.</p>
+        <p/>
+        <p><hi rend="b">IMBÉCILES : </hi>Ceux qui ne pensent pas comme vous.</p>
+        <p/>
+        <p><hi rend="b">IMBROGLIO : </hi>Le fond de toutes les pièces de théâtre.</p>
+        <p/>
+        <p><hi rend="b">IMMORALITÉ : </hi>Ce mot bien prononcé rehausse celui qui l’emploie.</p>
+        <p/>
+        <p><hi rend="b">IMPÉRATRICES : </hi>Toutes belles.</p>
+        <p/>
+        <p><hi rend="b">IMPÉRIALISTES : </hi>Tous gens honnêtes, polis, paisibles, distingués.</p>
+        <p/>
+        <p><hi rend="b">IMPERMÉABLE (un) : </hi>Très avantageux comme vêtement. Très nuisible à cause de la transpiration empêchée.</p>
+        <p/>
+        <p><hi rend="b">IMPIE : </hi>Tonner contre.</p>
+        <p/>
+        <p><hi rend="b">IMPORTATION : </hi>Ver rongeur du commerce.</p>
+        <p/>
+        <p><hi rend="b">IMPRÉSARIO : </hi>Mot d’artiste qui signifie directeur. Toujours précédé d’habile.</p>
+        <p/>
+        <p><hi rend="b">IMPRIMÉ : </hi>On doit croire tout ce qui est imprimé. Voir son nom imprimé ! Il y en a qui commettent des crimes rien que pour ça.</p>
+        <p/>
+        <p><hi rend="b">IMPRIMERIE : </hi>Découverte merveilleuse. A fait plus de mal que de bien.</p>
+        <p/>
+        <p><hi rend="b">INAUGURATION : </hi>Sujet de joie.</p>
+        <p/>
+        <p><hi rend="b">INCAPACITÉ : </hi>Toujours notoire. Plus on est incapable, plus on doit être ambitieux.</p>
+        <p/>
+        <p><hi rend="b">INCENDIE : </hi>Un spectacle à voir.</p>
+        <p/>
+        <p><hi rend="b">INCOGNITO : </hi>Costumes des princes en voyage.</p>
+        <p/>
+        <p><hi rend="b">INCRUSTATION : </hi>Ne se dit qu’en parlant de la nacre.</p>
+        <p/>
+        <p><hi rend="b">INDOLENCE : </hi>Résultat des pays chauds.</p>
+        <p/>
+        <p><hi rend="b">INDUSTRIE : </hi>V. commerce.</p>
+        <p/>
+        <p><hi rend="b">INFANTICIDE : </hi>Ne se commet que dans le peuple.</p>
+        <p/>
+        <p><hi rend="b">INFECT : </hi>Doit se dire de toute œuvre artistique ou littéraire que le <emph>Figaro</emph> n’a pas permis d’admirer.</p>
+        <p/>
+        <p><hi rend="b">INFÉODÉ : </hi>Injure très grave et de grand style à jeter à la tête d’un adversaire politique : « Môssieu ! Vous êtes inféodé à la camarilla de l’Elysée !  »  Ne s’emploie qu’à la tribune.</p>
+        <p/>
+        <p><hi rend="b">INFINITÉSIMAL : </hi>On ne sait pas ce que c’est, mais a rapport à l’homéopathie.</p>
+        <p/>
+        <p><hi rend="b">INGÉNIEUR : </hi>La première carrière pour un jeune homme. Connaît les sciences.</p>
+        <p/>
+        <p><hi rend="b">INHUMATION : </hi>Trop souvent précipitée : raconter des histoires de cadavres qui s’étaient dévoré le bras pour apaiser leur faim.</p>
+        <p><hi rend="b">INJURE : </hi>Doit toujours se laver dans le sang.</p>
+        <p/>
+        <p><hi rend="b">INNÉES (idées) : </hi>Les blaguer.</p>
+        <p/>
+        <p><hi rend="b">INNOCENCE : </hi>L’impassibilité la prouve.</p>
+        <p/>
+        <p><hi rend="b">INNOVATION : </hi>Toujours dangereuse.</p>
+        <p/>
+        <p><hi rend="b">INONDÉS : </hi>Toujours de la Loire.</p>
+        <p/>
+        <p><hi rend="b">INQUISITION : </hi>On a bien exagéré ses crimes.</p>
+        <p/>
+        <p><hi rend="b">INSCRIPTION : </hi>Toujours cunéiforme.</p>
+        <p/>
+        <p><hi rend="b">INSPIRATION poétique : </hi>Choses qui la provoquent : la vue de la mer, l’amour, la femme, etc.</p>
+        <p/>
+        <p><hi rend="b">INSTINCT : </hi>Supplée à l’intelligence.</p>
+        <p/>
+        <p><hi rend="b">INSTITUT (l’) : </hi>Les membres de l’Institut sont tous des vieillards et portent des abat-jour en taffetas vert.</p>
+        <p/>
+        <p><hi rend="b">INSTITUTRICES : </hi>Sont toujours d’une excellente famille qui a éprouvé des malheurs. Dangereuses dans les maisons, corrompent le mari.</p>
+        <p/>
+        <p><hi rend="b">INSTRUCTION : </hi>Laisser croire qu’on en a reçu beaucoup. Le peuple n’en a pas besoin pour gagner sa vie.</p>
+        <p/>
+        <p><hi rend="b">INSTRUMENT : </hi>Les instruments qui ont servi à commettre un crime sont toujours contondants quand ils ne sont pas tranchants.</p>
+        <p/>
+        <p><hi rend="b">INSURRECTION : </hi>Le plus saint des devoirs (Blanqui).</p>
+        <p/>
+        <p><hi rend="b">INTÉGRITÉ : </hi>Appartient surtout à la magistrature.</p>
+        <p/>
+        <p><hi rend="b">INTRIGUE : </hi>Mène à tout.</p>
+        <p/>
+        <p><hi rend="b">INTRODUCTION : </hi>Mot obscène.</p>
+        <p/>
+        <p><hi rend="b">INVASION : </hi>Excite les larmes.</p>
+        <p/>
+        <p><hi rend="b">INVENTEURS : </hi>Meurent tous à l’hôpital. Un autre profite de leur découverte, ce n’est pas juste.</p>
+        <p/>
+        <p><hi rend="b">ITALIE : </hi>Doit se voir immédiatement après le mariage. Donne bien des déceptions, n’est pas si belle qu’on dit.</p>
+        <p/>
+        <p><hi rend="b">ITALIENS : </hi>Tous musiciens. Tous traîtres.</p>
+        <p/>
+        <p><hi rend="b">IVOIRE : </hi>Ne s’emploie qu’en parlant des dents.</p>
+        <p/>
+        <p><hi rend="b">IVRESSE : </hi>Toujours précédée de folle.</p>
+      </div>
+      <div>
+        <head>J</head>
+        <p><hi rend="b">JALOUSIE : </hi>Toujours suivie de effrénée. Passion terrible. Les sourcils qui se rejoignent, preuve de jalousie.</p>
+        <p/>
+        <p><hi rend="b">JAMBAGE (droit de) : </hi>Ne pas y croire.</p>
+        <p/>
+        <p><hi rend="b">JAMBON : </hi>Toujours de Mayence. S’en méfier, à cause des trichines.</p>
+        <p/>
+        <p><hi rend="b">JANSÉNISME : </hi>On ne sait pas ce que c’est, mais il est chic d’en parler.</p>
+        <p/>
+        <p><hi rend="b">JAPON : </hi>Tout y est en porcelaine.</p>
+        <p/>
+        <p><hi rend="b">JARDINS ANGLAIS : </hi>Plus naturels que les jardins à la française.</p>
+        <p/>
+        <p><hi rend="b">JARNAC (coup de) : </hi>S’indigner contre ce coup, qui, du reste était fort loyal.</p>
+        <p/>
+        <p><hi rend="b">JARRETIÈRE : </hi>Doit toujours se porter au-dessus du genou quand on appartient au grand monde, au-dessous pour les femmes du peuple. Une femme ne doit jamais négliger ce détail de toilette, il y a tant d’impertinents en ce monde.</p>
+        <p/>
+        <p><hi rend="b">JASPE : </hi>Tous les vases des musées sont en jaspe.</p>
+        <p/>
+        <p><hi rend="b">JAVELOT : </hi>Vaut bien un fusil, quand on sait s’en servir.</p>
+        <p/>
+        <p><hi rend="b">JÉSUITES : </hi>Ont la main dans toutes les révolutions. On ne se doute pas du nombre qu’il y en a. Ne point parler de la « bataille des Jésuites » .</p>
+        <p/>
+        <p><hi rend="b">JEU : </hi>S’indigner contre cette fatale passion.</p>
+        <p/>
+        <p><hi rend="b">JEUNE FILLE : </hi>Articuler ce mot timidement. Toutes les jeunes filles sont pâles et frêles, toujours pures. Eviter pour elles toute espèce de livres, les visites dans les musées, les théâtres et surtout le Jardin des Plantes, côté singes.</p>
+        <p/>
+        <p><hi rend="b">JEUNE HOMME : </hi>Toujours farceur. Il doit l’être. S’étonner quand il ne l’est pas.</p>
+        <p/>
+        <p><hi rend="b">JEUNESSE : </hi>Ah ! C’est beau la jeunesse. Toujours citer ces vers italiens, même sans les comprendre : <emph>O Primavera ! Gioventù dell’anno ! O Gioventù ! Primavera della vita</emph> !</p>
+        <p/>
+        <p><hi rend="b">JOCKEY : </hi>Déplorer la race des jockeys.</p>
+        <p/>
+        <p><hi rend="b">JOCKEY-CLUB : </hi>Ses membres sont tous des jeunes gens farceurs et très riches. Dire simplement « le Jockey »  : très chic, donne à croire qu’on en fait partie.</p>
+        <p/>
+        <p><hi rend="b">JOHN BULL : </hi>Quand on ne sait pas le nom d’un Anglais, on l’appelle John Bull.</p>
+        <p/>
+        <p><hi rend="b">JOIE : </hi>La mère des jeux et des ris : on ne doit pas parler de ses filles.</p>
+        <p/>
+        <p><hi rend="b">JOLI : </hi>S’emploie pour tout ce qui est beau. C’est joliment joli ! est le comble de l’admiration.</p>
+        <p/>
+        <p><hi rend="b">JONC : </hi>Une canne doit être en jonc.</p>
+        <p/>
+        <p><hi rend="b">JOUETS : </hi>Devraient toujours être scientifiques.</p>
+        <p/>
+        <p><hi rend="b">JOUISSANCE : </hi>Mot obscène.</p>
+        <p/>
+        <p><hi rend="b">JOUR : </hi>Il y a les jours de Monsieur, le jour de barbe, le jour de médecine, etc. Il y a ceux de Madame, qu’elle appelle critiques à certaines époques du mois.</p>
+        <p/>
+        <p><hi rend="b">JOURNAUX : </hi>Ne pouvoir s’en passer mais tonner contre. Leur importance dans la société moderne. Ex. : <emph>Le Figaro</emph>. Les journaux sérieux : <emph>La Revue des Deux Mondes, l’Economiste, le Journal des Débats</emph> ! il faut les laisser traîner sur la table de son salon, mais en ayant bien soin de les couper avant. Marquer quelques passages au crayon rouge produit aussi un très bon effet. Lire le matin un article de ces feuilles sérieuses et graves, et le soir, en société, amener adroitement la conversation sur le sujet étudié afin de pouvoir briller.</p>
+        <p/>
+        <p><hi rend="b">JUIF : </hi>Fils d’Israël. Les Juifs sont tous des marchands de lorgnettes.</p>
+        <p/>
+        <p><hi rend="b">JUJUBE : </hi>On ne sait pas avec quoi c’est fait.</p>
+        <p><hi rend="b">JURY : </hi>S’évertuer à ne pas en être.</p>
+        <p/>
+        <p><hi rend="b">JUSTICE : </hi>Ne jamais s’en inquiéter.</p>
+      </div>
+      <div>
+        <head>K</head>
+        <p><hi rend="b">KALÉIDOSCOPE : </hi>Ne s’emploie qu’à propos des salons de peinture.</p>
+        <p/>
+        <p><hi rend="b">KEEPSAKE : </hi>Doit se trouver sur la table d’un salon.</p>
+        <p/>
+        <p><hi rend="b">KIOSQUE : </hi>Lieu de délices dans un jardin.</p>
+        <p/>
+        <p><hi rend="b">KNOUT : </hi>Mot qui vexe les Russes.</p>
+        <p/>
+        <p><hi rend="b">KORAN : </hi>Livre de Mahomet, où il n’est question que de femmes.</p>
+      </div>
+      <div>
+        <head>L</head>
+        <p><hi rend="b">LABORATOIRE : </hi>On doit en avoir un à la campagne.</p>
+        <p/>
+        <p><hi rend="b">LABOUREURS : </hi>Que serions-nous sans eux ?</p>
+        <p/>
+        <p><hi rend="b">LAC : </hi>Avoir une femme près de soi quand on se promène dessus.</p>
+        <p/>
+        <p><hi rend="b">LACONISME : </hi>Langue qu’on ne parle plus.</p>
+        <p/>
+        <p><hi rend="b">LACUSTRES (les villes) : </hi>Nier leur existence, parce qu’on ne peut pas vivre sous l’eau.</p>
+        <p/>
+        <p><hi rend="b">LA FAYETTE : </hi>Général célèbre par son cheval blanc.</p>
+        <p/>
+        <p><hi rend="b">LA FONTAINE : </hi>Soutenir qu’on n’a jamais lu ses contes. L’appeler le Bonhomme, l’immortel fabuliste.</p>
+        <p/>
+        <p><hi rend="b">LAGUNE : </hi>Ville de l’Adriatique.</p>
+        <p><hi rend="b">LAIT : </hi>Dissout les huîtres. Attire les serpents. Blanchit la peau ; des femmes à Paris prennent un bain de lait tous les matins.</p>
+        <p/>
+        <p><hi rend="b">LANCETTE : </hi>En avoir toujours une dans sa poche, mais craindre de s’en servir.</p>
+        <p/>
+        <p><hi rend="b">LANGOUSTE : </hi>Femelle du homard.</p>
+        <p/>
+        <p><hi rend="b">LANGUES VIVANTES : </hi>Les malheurs de la France viennent de ce qu’on n’en sait pas assez.</p>
+        <p/>
+        <p><hi rend="b">LATIN : </hi>Langue naturelle à l’homme. Gâte l’écriture. Est seulement utile pour lire les inscriptions des fontaines publiques. Se méfier des citations en latin : elles cachent toujours quelque chose de leste.</p>
+        <p/>
+        <p><hi rend="b">LAURIERS : </hi>Empêchent de dormir.</p>
+        <p/>
+        <p><hi rend="b">LAVEMENT : </hi>Ne se dit qu’en parlant de la cérémonie du lavement des pieds.</p>
+        <p/>
+        <p><hi rend="b">LÉGALITÉ : </hi>La légalité nous tue. Avec elle aucun gouvernement n’est possible.</p>
+        <p/>
+        <p><hi rend="b">LÉTHARGIES : </hi>On en a vu qui duraient des années.</p>
+        <p/>
+        <p><hi rend="b">LIBELLE : </hi>On n’en fait plus.</p>
+        <p/>
+        <p><hi rend="b">LIBERTÉ : </hi>O liberté ! que de crimes on commet en ton nom ! Nous avons toutes celles qui sont nécessaires. La liberté n’est pas la licence (phrase de conservateur).</p>
+        <p/>
+        <p><hi rend="b">LIBERTINAGE : </hi>Ne se voit que dans les grandes villes.</p>
+        <p/>
+        <p><hi rend="b">LIBRE-ÉCHANGE : </hi>Cause des souffrances du commerce.</p>
+        <p><hi rend="b">LIEUE : </hi>On fait plus vite une lieue que quatre kilomètres.</p>
+        <p/>
+        <p><hi rend="b">LIÈVRE : </hi>Dort les yeux ouverts.</p>
+        <p/>
+        <p><hi rend="b">LIGUEURS : </hi>Précurseurs du libéralisme en France.</p>
+        <p/>
+        <p><hi rend="b">LILAS : </hi>Fait plaisir parce qu’il annonce l’été.</p>
+        <p/>
+        <p><hi rend="b">LINGE : </hi>On n’en montre jamais trop, jamais assez.</p>
+        <p/>
+        <p><hi rend="b">LION : </hi>est généreux. Jour toujours avec une boule. Bien rugi, Lion ! Et dire que le lion et le tigre sont des chats !</p>
+        <p/>
+        <p><hi rend="b">LITTÉRATURE : </hi>Occupation des oisifs.</p>
+        <p/>
+        <p><hi rend="b">LITTRE : </hi>Ricaner quand on entend son nom : « Ce monsieur qui dit que nous descendons des singes.  »</p>
+        <p/>
+        <p><hi rend="b">LIVRE : </hi>Quel qu’il soit, toujours trop long.</p>
+        <p/>
+        <p><hi rend="b">LORD : </hi>Anglais riche.</p>
+        <p/>
+        <p><hi rend="b">LORGNON : </hi>Insolent et distingué.</p>
+        <p/>
+        <p><hi rend="b">LOUIS</hi> <hi rend="b">XVI : </hi>Toujours dire : « Cet infortuné monarque...  »</p>
+        <p/>
+        <p><hi rend="b">LOUTRE : </hi>Sert à faire des casquettes et des gilets.</p>
+        <p/>
+        <p><hi rend="b">LUMIÈRE : </hi>Toujours dire : <emph>Fiat lux</emph> ! quand on allume une bougie.</p>
+        <p/>
+        <p><hi rend="b">LUNE : </hi>Inspire la mélancolie. Est peut-être habitée ?</p>
+        <p/>
+        <p><hi rend="b">LUXE : </hi>Perd les Etats.</p>
+        <p><hi rend="b">LYNX : </hi>Animal célèbre pour son œil.</p>
+      </div>
+      <div>
+        <head>M</head>
+        <p><hi rend="b">MACADAM : </hi>A supprimé les révolutions : plus moyen de faire des barricades. Est néanmoins bien incommode.</p>
+        <p/>
+        <p><hi rend="b">MACARONI : </hi>Doit se servie avec les doigts quand il est à l’italienne.</p>
+        <p/>
+        <p><hi rend="b">MACHIAVEL : </hi>Ne pas l’avoir lu, mais le regarder comme un scélérat.</p>
+        <p/>
+        <p><hi rend="b">MACHIAVÉLISME : </hi>Mot qu’on ne doit prononcer qu’en frémissant.</p>
+        <p/>
+        <p><hi rend="b">MACKINTOSH : </hi>Philosophe écossais. L’inventeur du caoutchouc.</p>
+        <p/>
+        <p><hi rend="b">MAESTRO : </hi>Mot italien qui veut dire pianiste.</p>
+        <p/>
+        <p><hi rend="b">MAGIE : </hi>S’en moquer.</p>
+        <p/>
+        <p><hi rend="b">MAGISTRATURE : </hi>Belle carrière pour se marier. Magistrats tous pédérastes.</p>
+        <p/>
+        <p><hi rend="b">MAGNÉTISME : </hi>Joli sujet de conversation et qui sert à « faire des femmes » .</p>
+        <p/>
+        <p><hi rend="b">MAILLOT : </hi>Très excitant.</p>
+        <p/>
+        <p><hi rend="b">MAIN : </hi>Avoir une belle main, c’est écrire bien.</p>
+        <p/>
+        <p><hi rend="b">MAIRE de village : </hi>Toujours ridicule. Se croit insulté quand on l’appelle échevin.</p>
+        <p/>
+        <p><hi rend="b">MAJOR : </hi>Ne se trouve plus que dans les tables d’hôte.</p>
+        <p/>
+        <p><hi rend="b">MALADE : </hi>Pour remonter le moral d’un malade, rire de son affection et nier ses souffrances.</p>
+        <p/>
+        <p><hi rend="b">MALADIE DES NERFS : </hi>Toujours des grimaces.</p>
+        <p/>
+        <p><hi rend="b">MAL DE MER : </hi>Pour ne pas l’éprouver, il suffit de penser à autre chose.</p>
+        <p/>
+        <p><hi rend="b">MALÉDICTION : </hi>Toujours donné par un père.</p>
+        <p/>
+        <p><hi rend="b">MALTHUS :</hi> « L’infâme Malthus » .</p>
+        <p/>
+        <p><hi rend="b">MAMELUKS : </hi>Ancien peuple de l’Orient (Egypte).</p>
+        <p/>
+        <p><hi rend="b">MANDOLINE : </hi>Indispensable pour séduire les Espagnoles.</p>
+        <p/>
+        <p><hi rend="b">MANTEAU : </hi>Toujours couleur de muraille pour les équipées galantes.</p>
+        <p/>
+        <p><hi rend="b">MARBRE : </hi>Toute statue est en marbre de Paros.</p>
+        <p/>
+        <p><hi rend="b">MARSEILLAIS : </hi>Tous gens d’esprit.</p>
+        <p/>
+        <p><hi rend="b">MARTYRS : </hi>Tous les premiers chrétiens l’ont été.</p>
+        <p/>
+        <p><hi rend="b">MASQUE : </hi>Donne de l’esprit.</p>
+        <p/>
+        <p><hi rend="b">MATELAS : </hi>Plus il est dur, plus il est hygiénique.</p>
+        <p/>
+        <p><hi rend="b">MATÉRIALISME : </hi>Prononcer ce mot avec horreur en appuyant chaque syllabe.</p>
+        <p/>
+        <p><hi rend="b">MATHÉMATIQUES : </hi>Dessèchent le cœur.</p>
+        <p/>
+        <p><hi rend="b">MATINAL : </hi>L’être, preuve de moralité. Si l’on se couche à 4 heures du matin et qu’on se lève à 8, on est paresseux, mais si l’on se met au lit à heures du soir, pour en sortit le lendemain à 5, on est actif.</p>
+        <p/>
+        <p><hi rend="b">MAXIME : </hi>Jamais neuve mais toujours consolante.</p>
+        <p/>
+        <p><hi rend="b">MAZARINADES : </hi>Les mépriser. Inutile d’en connaître une seule.</p>
+        <p/>
+        <p><hi rend="b">MÉCANIQUE : </hi>Partie inférieure des mathématiques.</p>
+        <p/>
+        <p><hi rend="b">MÉDAILLE : </hi>On n’en faisait que dans l’antiquité.</p>
+        <p/>
+        <p><hi rend="b">MÉDECINE : </hi>S’en moquer quand on se porte bien.</p>
+        <p/>
+        <p><hi rend="b">MÉLANCOLIE : </hi>Signe de distinction du cœur et d’élévation de l’esprit.</p>
+        <p/>
+        <p><hi rend="b">MÉLODRAMES : </hi>Moins immoraux que les drames.</p>
+        <p/>
+        <p><hi rend="b">MELON : </hi>Joli sujet de conversation à table. Est-ce un légume ? Est-ce un fruit ? Les Anglais les mangent au dessert, ce qui étonne.</p>
+        <p/>
+        <p><hi rend="b">MÉMOIRE : </hi>Se plaindre de la sienne, et même se vanter de n’en pas avoir. Mais rugir si on vous dit que vous n’avez pas de jugement.</p>
+        <p/>
+        <p><hi rend="b">MÉNAGE : </hi>En parler toujours avec respect.</p>
+        <p/>
+        <p><hi rend="b">MENDICITE : </hi>Devrait être interdite et ne l’est jamais.</p>
+        <p/>
+        <p><hi rend="b">MÉPHISTOPHÉLIQUE : </hi>Doit se dire de tout rire amer.</p>
+        <p/>
+        <p><hi rend="b">MER : </hi>N’a pas de fond. Image de l’infini. Donne de grandes pensées. Au bord de la mer il faut toujours avoir une longue vue. Quand on la contemple, toujours dire : « Que d’eau ! Que d’eau !  »</p>
+        <p/>
+        <p><hi rend="b">MERCURE : </hi>Tue la maladie et le malade.</p>
+        <p/>
+        <p><hi rend="b">MÉRIDIONAUX (les) : </hi>Tous poètes.</p>
+        <p/>
+        <p><hi rend="b">MESSAGE : </hi>Plus noble que <emph>lettre.</emph></p>
+        <p/>
+        <p><hi rend="b">MÉTALLURGIE : </hi>Très chic.</p>
+        <p/>
+        <p><hi rend="b">MÉTAMORPHOSE : </hi>Rire du temps où on y croyait. Ovide en est l’inventeur.</p>
+        <p/>
+        <p><hi rend="b">MÉTAPHORES : </hi>Il y en a toujours trop dans le style.</p>
+        <p/>
+        <p><hi rend="b">MÉTAPHYSIQUE : </hi>En rire : c’est une preuve d’esprit supérieur.</p>
+        <p/>
+        <p><hi rend="b">MÉTHODE : </hi>Ne sert à rien.</p>
+        <p/>
+        <p><hi rend="b">MEXIQUE :</hi> « La guerre du Mexique est la plus grande pensée du règne.  »  (Rouher.)</p>
+        <p/>
+        <p><hi rend="b">MIDI (cuisine du) : </hi>Toujours à l’ail. Tonner contre.</p>
+        <p/>
+        <p><hi rend="b">MINISTRE : </hi>Dernier terme de la gloire humaine.</p>
+        <p/>
+        <p><hi rend="b">MINUIT : </hi>Limite du bonheur et des plaisirs honnêtes ; tout ce qu’on fait au-delà est immoral.</p>
+        <p/>
+        <p><hi rend="b">MINUTE : </hi>On ne se doute pas comme c’est long, une minute.</p>
+        <p/>
+        <p><hi rend="b">MISSIONNAIRES : </hi>Sont tous mangés ou crucifiés.</p>
+        <p><hi rend="b">MOBILIER : </hi>Tout craindre pour son mobilier.</p>
+        <p/>
+        <p><hi rend="b">MOINEAU : </hi>Fils de moine.</p>
+        <p/>
+        <p><hi rend="b">MONARCHIE : </hi>La monarchie constitutionnelle est la meilleures des républiques.</p>
+        <p/>
+        <p><hi rend="b">MONOPOLE : </hi>Tonner contre.</p>
+        <p/>
+        <p><hi rend="b">MONSTRES : </hi>On n’en voit plus.</p>
+        <p/>
+        <p><hi rend="b">MONTRE : </hi>N’est bonne que si elle vient de Genève. Dans les féeries, quand un personnage tire la sienne, ce doit être un oignon : cette plaisanterie est infaillible « Votre montre va-t-elle bien ? - Elle règle le soleil.  »</p>
+        <p/>
+        <p><hi rend="b">MOSAÏQUES : </hi>Le secret en est perdu.</p>
+        <p/>
+        <p><hi rend="b">MOUCHARDS : </hi>Tous de la police.</p>
+        <p/>
+        <p><hi rend="b">MOUCHES : </hi><emph>Puer abige muscas.</emph> </p>
+        <p/>
+        <p><hi rend="b">MOULES : </hi>Toujours indigestes.</p>
+        <p/>
+        <p><hi rend="b">MOULIN : </hi>Fait bien dans un paysage.</p>
+        <p/>
+        <p><hi rend="b">MOUSTACHES : </hi>Donnent l’air martial.</p>
+        <p/>
+        <p><hi rend="b">MOUSTIQUE : </hi>Plus dangereux que n’importe quelle bête féroce.</p>
+        <p/>
+        <p><hi rend="b">MOUTARDE : </hi>Il n’y a de bonne moutarde qu’à Dijon. Ruine l’estomac.</p>
+        <p/>
+        <p><hi rend="b">MUSCLES : </hi>Les muscles des hommes forts sont toujours en acier.</p>
+        <p/>
+        <p><hi rend="b">MUSÉE : </hi>De Versailles : retrace les hauts faits de la gloire nationale ; belle idée de Louis-Philippe. Du Louvre : à éviter pour les jeunes filles. Dupuytren : très utile à montrer aux jeunes gens.</p>
+        <p/>
+        <p><hi rend="b">MUSICIEN : </hi>Le propre du véritable musicien, c’est de ne composer aucune musique, de ne jouer d’aucun instrument, et de mépriser les virtuoses.</p>
+        <p/>
+        <p><hi rend="b">MUSIQUE : </hi>Fait penser à un tas de choses. Adoucit les mœurs. Ex. : <emph>la Marseillaise.</emph></p>
+      </div>
+      <div>
+        <head>N</head>
+        <p><hi rend="b">NACELLE : </hi>Tout batelet qui porte une femme. « Viens dans ma nacelle !  »</p>
+        <p/>
+        <p><hi rend="b">NAIN : </hi>Raconter l’histoire du général Tom Pouce et, si on lui a serré la main, le dire avec orgueil.</p>
+        <p/>
+        <p><hi rend="b">NAPLES : </hi>Si vous causez avec des savants, dire Parthénope. Voir Naples et mourir ! (v. Yvetot).</p>
+        <p/>
+        <p><hi rend="b">NARINES : </hi>Relevées, signe de lubricité.</p>
+        <p/>
+        <p><hi rend="b">NATURE : </hi>Que c’est beau la nature ! A dire chaque fois qu’on se trouve à la campagne.</p>
+        <p/>
+        <p><hi rend="b">NAVIGATEUR : </hi>Toujours hardi.</p>
+        <p/>
+        <p><hi rend="b">NAVIRE : </hi>On ne les construit bien qu’à Bayonne.</p>
+        <p/>
+        <p><hi rend="b">NECTAR : </hi>Le confondre avec l’ambroisie.</p>
+        <p/>
+        <p><hi rend="b">NÈGRE : </hi>Il faut parler nègre pour se faire comprendre d’un étranger, quelle que soit sa nationalité. S’emploie aussi dans le style télégraphique.</p>
+        <p/>
+        <p><hi rend="b">NÈGRES : </hi>S’étonner que leur salive soit blanche et de ce qu’ils parlent français.</p>
+        <p/>
+        <p><hi rend="b">NÈGRESSES : </hi>Plus chaudes que les blanches (v. brunes et blondes).</p>
+        <p/>
+        <p><hi rend="b">NÉOLOGISME : </hi>La perte de la langue française.</p>
+        <p/>
+        <p><hi rend="b">NERVEUX : </hi>Se dit à chaque fois qu’on ne comprend rien à une maladie ; cette explication satisfait l’auditeur.</p>
+        <p/>
+        <p><hi rend="b">NOBLESSE : </hi>La mépriser et l’envier.</p>
+        <p/>
+        <p><hi rend="b">NŒUD GORDIEN : </hi>A rapport à l’antiquité. (Manière des anciens de nouer leur cravate.)</p>
+        <p/>
+        <p><hi rend="b">NOIR : </hi>Toujours suivi d’ébène. Comme un geai (pour jais).</p>
+        <p/>
+        <p><hi rend="b">NORMANDS : </hi>Croire qu’ils prononcent des hâvresâcs, et les blaguer sur le bonnet de coton.</p>
+        <p/>
+        <p><hi rend="b">NOTAIRES : </hi>Maintenant, ne pas s’y fier.</p>
+        <p/>
+        <p><hi rend="b">NOURRITURES : </hi>Toujours saine et abondante dans les collèges.</p>
+        <p/>
+        <p><hi rend="b">NUMISMATIQUE : </hi>A rapport aux hautes sciences, inspire un immense respect.</p>
+      </div>
+      <div>
+        <head>O</head>
+        <p><hi rend="b">OASIS : </hi>Auberge dans le désert.</p>
+        <p/>
+        <p><hi rend="b">OBSCÉNITÉ : </hi>Tous les mots scientifiques dérivés du grec ou du latin cachent une obscénité.</p>
+        <p/>
+        <p><hi rend="b">OBUS : </hi>Servent à faire des pendules et des encriers.</p>
+        <p/>
+        <p><hi rend="b">OCTOGÉNAIRE : </hi>Se dit de tout vieillard.</p>
+        <p/>
+        <p><hi rend="b">OCTROI : </hi>On doit le frauder (v. douane)</p>
+        <p/>
+        <p><hi rend="b">ODALISQUES : </hi>Toutes les femmes de l’Orient sont des odalisques (v. bayadères).</p>
+        <p/>
+        <p><hi rend="b">ODÉON : </hi>Plaisanteries sur son éloignement.</p>
+        <p/>
+        <p><hi rend="b">ODEUR des pieds : </hi>Signe de santé.</p>
+        <p/>
+        <p><hi rend="b">ŒUF : </hi>Point de départ pour une dissertation philosophique sur la genèse des êtres.</p>
+        <p/>
+        <p><hi rend="b">OFFENBACH : </hi>Dès qu’on entend son nom, il faut fermer deux doigts de la main droite pour se préserver du mauvais œil. Très parisien, bien porté.</p>
+        <p/>
+        <p><hi rend="b">OISEAU : </hi>Désirer en être un, et dire en soupirant : « Des ailes ! Des ailes !  »  Marque une âme poétique.</p>
+        <p/>
+        <p><hi rend="b">OMÉGA : </hi>Deuxième lettre de l’alphabet grec, puisqu’on dit toujours l’alpha et l’oméga.</p>
+        <p/>
+        <p><hi rend="b">OMNIBUS : </hi>On n’y trouve jamais de place. Ont été inventés par Louis XIV. « Moi, monsieur, j’ai connu les tricycles qui n’avaient que trois roues !  »</p>
+        <p/>
+        <p><hi rend="b">OPÉRA (coulisses de l’) : </hi>Paradis de Mahomet sur la terre.</p>
+        <p/>
+        <p><hi rend="b">OPTIMISTE : </hi>Equivalent d’imbécile.</p>
+        <p/>
+        <p><hi rend="b">ORAISON : </hi>Tout discours de Bossuet.</p>
+        <p/>
+        <p><hi rend="b">ORCHESTRE : </hi>Image de la société : chacun fait sa partie et il y a un chef.</p>
+        <p/>
+        <p><hi rend="b">ORCHITE : </hi>Maladie de Monsieur.</p>
+        <p/>
+        <p><hi rend="b">ORDRE, L’ORDRE : </hi>Que de crime on commet en ton nom ! (v. liberté).</p>
+        <p/>
+        <p><hi rend="b">OREILLER : </hi>Ne jamais s’en servir, ça rend bossu.</p>
+        <p/>
+        <p><hi rend="b">ORFÈVRE : </hi>Toujours l’appeler M. Josse.</p>
+        <p/>
+        <p><hi rend="b">ORGUE : </hi>Elève l’âme vers Dieu.</p>
+        <p/>
+        <p><hi rend="b">ORIENTALISTE : </hi>Homme qui a beaucoup voyagé.</p>
+        <p/>
+        <p><hi rend="b">ORIGINAL : </hi>Rire de tout ce qui est original, le haïr, le bafouer, et l’exterminer si l’on peut.</p>
+        <p/>
+        <p><hi rend="b">ORTHOGRAPHE : </hi>Y croire comme aux mathématiques. N’est pas nécessaire quand on a du style.</p>
+        <p/>
+        <p><hi rend="b">OURS : </hi>S’appelle généralement Martin. Citer l’anecdote de l’invalide qui, voyant une montre tombée dans sa fosse, y est descendu et a été dévoré.</p>
+        <p/>
+        <p><hi rend="b">OUVRIER : </hi>Toujours honnête, quand il ne fait pas d’émeutes.</p>
+      </div>
+      <div>
+        <head>P</head>
+        <p><hi rend="b">PAGANINI : </hi>N’accordait jamais son violon. Célèbre par la longueur de ses doigts.</p>
+        <p/>
+        <p><hi rend="b">PAIN : </hi>On ne sait pas toutes les saletés qu’il y a dans le pain.</p>
+        <p/>
+        <p><hi rend="b">PALLADIUM : </hi>Forteresse de l’Antiquité</p>
+        <p><hi rend="b">PALMIER : </hi>Donne de la couleur locale.</p>
+        <p/>
+        <p><hi rend="b">PALMYRE : </hi>Une reine d’Egypte ? Des ruines ? On ne sait pas.</p>
+        <p/>
+        <p><hi rend="b">PANTHÉISME : </hi>Tonner contre, absurde.</p>
+        <p/>
+        <p><hi rend="b">PARADOXE : </hi>Se dit toujours sur le boulevards des Italiens, entre deux bouffées de cigarette.</p>
+        <p/>
+        <p><hi rend="b">PARALLÈLE : </hi>On ne doit choisir qu’entre les suivants : César et Pompée, Horace et Virgile, Voltaire et Rousseau, Napoléon et Charlemagne, Gœthe et Schiller, Bayard et Mac-Mahon...</p>
+        <p/>
+        <p><hi rend="b">PARAPHE : </hi>Plus il est compliqué, plus il est beau.</p>
+        <p/>
+        <p><hi rend="b">PARENTS : </hi>Toujours désagréables. Cacher ceux qui ne sont pas riches.</p>
+        <p/>
+        <p><hi rend="b">PARIS : </hi>La grande prostituée. Paradis des femmes, enfer des chevaux.</p>
+        <p/>
+        <p><hi rend="b">PARRAIN : </hi>Toujours le père du filleul.</p>
+        <p/>
+        <p><hi rend="b">PARTIES : </hi>Sont honteuses pour les uns, naturelles pour les autres.</p>
+        <p/>
+        <p><hi rend="b">PAUVRES : </hi>S’en occuper tient lieu de toutes les vertus.</p>
+        <p/>
+        <p><hi rend="b">PAYSAGES de peintres : </hi>Toujours des plats d’épinards.</p>
+        <p/>
+        <p><hi rend="b">PÉDANTISME : </hi>Doit être bafoué, si ce n’est quand il s’applique à des choses légères.</p>
+        <p/>
+        <p><hi rend="b">PÉDÉRASTIE : </hi>Maladie dont tous les hommes sont affectés à un certain âge.</p>
+        <p><hi rend="b">PEINTURE SUR VERRE : </hi>Le secret en est perdu.</p>
+        <p/>
+        <p><hi rend="b">PÉLICAN : </hi>Se perce les flancs pour nourrir ses petits. Emblème du père de famille.</p>
+        <p/>
+        <p><hi rend="b">PENSER : </hi>Pénible ; les choses qui nous y forcent sont généralement délaissées.</p>
+        <p/>
+        <p><hi rend="b">PENSIONNAT : </hi>Dites <emph>Boarding school</emph>, quand c’est un pensionnat de jeunes filles.</p>
+        <p/>
+        <p><hi rend="b">PERMUTER : </hi>Le seul verbe conjugué par les militaires.</p>
+        <p/>
+        <p><hi rend="b">PÉROU : </hi>Pays où tout est en or.</p>
+        <p/>
+        <p><hi rend="b">PEUR : </hi>Donne des ailes.</p>
+        <p/>
+        <p><hi rend="b">PHAÉTON : </hi>Inventeur des voitures de ce nom.</p>
+        <p/>
+        <p><hi rend="b">PHÉNIX : </hi>Beau nom pour une compagnie d’assurances contre l’incendie.</p>
+        <p/>
+        <p><hi rend="b">PHILIPPE D’ORLÉANS - ÉGALITÉ : </hi>Tonner contre. Encore une des causes de la Révolution. A commis tous les crimes de cette époque néfaste.</p>
+        <p/>
+        <p><hi rend="b">PHILOSOPHIE : </hi>Toujours en ricaner.</p>
+        <p/>
+        <p><hi rend="b">PHOTOGRAPHIE : </hi>Détrônera la peinture (v. daguerréotype).</p>
+        <p/>
+        <p><hi rend="b">PIANO : </hi>Indispensable dans un salon.</p>
+        <p/>
+        <p><hi rend="b">PIGEON : </hi>Ne doit se manger qu’avec des petits pois.</p>
+        <p/>
+        <p><hi rend="b">PIPE : </hi>Pas comme il faut, sauf aux bains de mer.</p>
+        <p/>
+        <p><hi rend="b">PITIÉ : </hi>Toujours s’en garder.</p>
+        <p/>
+        <p><hi rend="b">PLACE : </hi>Toujours en demander une.</p>
+        <p/>
+        <p><hi rend="b">PLANÈTES : </hi>Toutes découvertes par M. Leverrier.</p>
+        <p/>
+        <p><hi rend="b">PLANTE : </hi>Guérit toujours les parties du corps humain auxquelles elle ressemble.</p>
+        <p/>
+        <p><hi rend="b">PLIQUE POLONAISE : </hi>Si on coupe les cheveux, ils saignent.</p>
+        <p/>
+        <p><hi rend="b">POÉSIE (la) : </hi>Est tout à fait inutile : passée de mode.</p>
+        <p/>
+        <p><hi rend="b">POÈTE : </hi>Synonyme noble de nigaud ; rêveur.</p>
+        <p/>
+        <p><hi rend="b">POLICE : </hi>A toujours tort.</p>
+        <p/>
+        <p><hi rend="b">PONSARD : </hi>Seul poète qui ait eu du bon sens.</p>
+        <p/>
+        <p><hi rend="b">POPILIUS : </hi>Inventeur d’une espèce de cercle.</p>
+        <p/>
+        <p><hi rend="b">PORTEFEUILLE : </hi>En avoir un sous le bras donne l’air d’un ministre.</p>
+        <p/>
+        <p><hi rend="b">PORT-ROYAL : </hi>Sujet de conversation très bien porté.</p>
+        <p/>
+        <p><hi rend="b">POURPRE : </hi>Mot plus noble que rouge.</p>
+        <p/>
+        <p><hi rend="b">PRADON : </hi>Ne pas lui pardonner d’avoir été l’émule de Racine.</p>
+        <p/>
+        <p><hi rend="b">PRAGMATIQUE SANCTION : </hi>On ne sait pas ce que c’est.</p>
+        <p/>
+        <p><hi rend="b">PRATIQUE : </hi>Supérieure à la théorie.</p>
+        <p/>
+        <p><hi rend="b">PRÉOCCUPATION : </hi>Est d’autant plus vive qu’étant profondément absorbé, on reste immobile.</p>
+        <p/>
+        <p><hi rend="b">PRÊTRES : </hi>On devrait les châtrer. Couchent avec leurs bonnes et en ont des enfants qu’ils appellent leurs neveux. C’est égal, il y en a de bons tout de même.</p>
+        <p/>
+        <p><hi rend="b">PRIAPISME : </hi>Culte de l’antiquité.</p>
+        <p/>
+        <p><hi rend="b">PRINCIPES : </hi>Toujours indiscutables ; on ne peut en dire ni la nature, ni le nombre ; n’importe, sont sacrés.</p>
+        <p/>
+        <p><hi rend="b">PROFESSEUR : </hi>Toujours savant.</p>
+        <p/>
+        <p><hi rend="b">PROGRÈS : </hi>Toujours mal entendu et trop hâtif.</p>
+        <p/>
+        <p><hi rend="b">PROMENADE : </hi>Toujours faire une promenade après dîner, ça facilite la digestion.</p>
+        <p/>
+        <p><hi rend="b">PROPRIÉTAIRE : </hi>Les humains se divisent en deux classes : les propriétaires et les locataires.</p>
+        <p/>
+        <p><hi rend="b">PROPRIÉTÉ : </hi>Une des bases de la société. Plus sacrée que la religion.</p>
+        <p/>
+        <p><hi rend="b">PROVIDENCE : </hi>Que deviendrons-nous sans elle ?</p>
+        <p/>
+        <p><hi rend="b">PROSE : </hi>Plus facile à faire que les vers.</p>
+        <p/>
+        <p><hi rend="b">PRUNEAUX : </hi>Tiennent le ventre libre.</p>
+        <p/>
+        <p><hi rend="b">PUBLICITÉ : </hi>Source de fortune.</p>
+        <p/>
+        <p><hi rend="b">PUCELLE : </hi>Ne s’emploie que pour Jeanne d’Arc, et avec « d’Orléans » .</p>
+        <p/>
+        <p><hi rend="b">PUDEUR : </hi>Le plus bel ornement de la femme.</p>
+        <p><hi rend="b">PUNCH : </hi>Convient à une soirée de garçons. Source de délire. Eteindre les lumières quand on l’allume. Et ça produit des flammes fantastiques !</p>
+        <p/>
+        <p><hi rend="b">PYRAMIDE : </hi>Ouvrage inutile.</p>
+      </div>
+      <div>
+        <head>Q</head>
+        <p><hi rend="b">QUADRATURE DU CERCLE : </hi>On ne sait pas ce que c’est mais il faut lever les épaules quand on en parle.</p>
+        <p/>
+        <p><hi rend="b">QUESTION : </hi>La poser c’est la résoudre.</p>
+      </div>
+      <div>
+        <head>R</head>
+        <p><hi rend="b">RACINE : </hi>Polisson !</p>
+        <p/>
+        <p><hi rend="b">RADEAU : </hi>Toujours de <emph>la Méduse</emph>.</p>
+        <p/>
+        <p><hi rend="b">RADICALISME : </hi>D’autant plus dangereux qu’il est latent. La république nous mène au radicalisme.</p>
+        <p/>
+        <p><hi rend="b">RAMONEUR : </hi>Hirondelle de l’hiver.</p>
+        <p/>
+        <p><hi rend="b">RATE : </hi>Autrefois, on l’enlevait au coureur.</p>
+        <p/>
+        <p><hi rend="b">RATELIER : </hi>Troisième dentition. Prendre garde de l’avaler en dormant.</p>
+        <p/>
+        <p><hi rend="b">RECONNAISSANCE : </hi>N’a pas besoin d’être exprimée.</p>
+        <p/>
+        <p><hi rend="b">RELIGION (la) : </hi>Fait partie des bases de la société. Est nécessaire pour le peuple, cependant pas trop n’en faut. « La religion de nos pères » , doit se dire avec onction.</p>
+        <p/>
+        <p><hi rend="b">RÉPUBLICAINS : </hi>Les républicains ne sont pas tous des voleurs, mais les voleurs sont tous républicains.</p>
+        <p><hi rend="b">RESTAURANT : </hi>On doit toujours y demander les mets qu’on ne mange pas habituellement chez soi. Quand on est embarrassé, il suffit de choisir les plats que l’on sert aux voisins.</p>
+        <p/>
+        <p><hi rend="b">RÊVASSERIE : </hi>Les idées élevées qu’on ne comprend pas.</p>
+        <p/>
+        <p><hi rend="b">RÉVEILLON : </hi>C’est le boudin qui constitue le réveillon.</p>
+        <p/>
+        <p><hi rend="b">RICHESSE : </hi>Tient lieu de tout, même de considération.</p>
+        <p/>
+        <p><hi rend="b">RIME : </hi>Ne s’accorde jamais avec la raison.</p>
+        <p/>
+        <p><hi rend="b">RINCE-BOUCHE : </hi>Signe de richesse dans une maison.</p>
+        <p/>
+        <p><hi rend="b">RIRE : </hi>Toujours homérique.</p>
+        <p/>
+        <p><hi rend="b">ROBE : </hi>Inspire le respect.</p>
+        <p/>
+        <p><hi rend="b">ROMANCES : </hi>Le chanteur de romances plaît aux dames.</p>
+        <p/>
+        <p><hi rend="b">ROMANS : </hi>Pervertissent les masses. Sont moins immoraux en feuilletons qu’en volumes. Seuls les romans historiques peuvent être tolérés parce qu’ils enseignent l’histoire. Il y a des romans écrits avec la pointe d’un scalpel, d’autres qui reposent sur la pointe d’une aiguille.</p>
+        <p/>
+        <p><hi rend="b">RONSARD : </hi>Ridicule avec ses mots grecs et latins.</p>
+        <p/>
+        <p><hi rend="b">ROUSSEAU : </hi>Croire que J. -J. Rousseau et J. -B. Rousseau sont les deux frères, comme l’étaient les deux Corneille.</p>
+        <p/>
+        <p><hi rend="b">ROUSSES : </hi>V. blondes, brunes et négresses.</p>
+        <p><hi rend="b">RUINES : </hi>Font rêver et donnent de la poésie à un paysage.</p>
+      </div>
+      <div>
+        <head>S</head>
+        <p><hi rend="b">SABOTS : </hi>Un homme riche qui a eu des commencements difficiles est toujours venu à Paris en sabots.</p>
+        <p/>
+        <p><hi rend="b">SABRE : </hi>Les Français veulent être gouvernés par le sabre.</p>
+        <p/>
+        <p><hi rend="b">SACERDOCE : </hi>L’art, la médecine, etc. , sont des sacerdoces.</p>
+        <p/>
+        <p><hi rend="b">SACRILÈGE : </hi>C’est un sacrilège d’abattre un arbre.</p>
+        <p/>
+        <p><hi rend="b">SAIGNER : </hi>Se faire saigner au printemps.</p>
+        <p/>
+        <p><hi rend="b">SAINT-BARTHÉLEMY : </hi>Vieille blague.</p>
+        <p/>
+        <p><hi rend="b">SAINTE-BEUVE : </hi>Le Vendredi Saint, dînait exclusivement de charcuterie.</p>
+        <p/>
+        <p><hi rend="b">SAINTE-HÉLÈNE : </hi>Ile connue par son rocher.</p>
+        <p/>
+        <p><hi rend="b">SALIÈRE : </hi>La renverser porte malheur.</p>
+        <p/>
+        <p><hi rend="b">SALON (faire le) : </hi>Début littéraire qui pose très bien son homme.</p>
+        <p/>
+        <p><hi rend="b">SALUTATIONS : </hi>toujours empressées.</p>
+        <p/>
+        <p><hi rend="b">SANTÉ : </hi>trop de santé, cause de maladie.</p>
+        <p/>
+        <p><hi rend="b">SAPHIQUE ET ADONIQUE (vers) : </hi>Produit un excellent effet dans un article de littérature.</p>
+        <p/>
+        <p><hi rend="b">SATRAPE : </hi>Homme riche et débauché.</p>
+        <p/>
+        <p><hi rend="b">SATURNALES : </hi>Fêtes du Directoires.</p>
+        <p/>
+        <p><hi rend="b">SAVANTS : </hi>Les blaguer. Pour être savant, il ne faut que de la mémoire et du travail.</p>
+        <p/>
+        <p><hi rend="b">SBIRE : </hi>S’emploie par les Républicains farouches pour désigner les agents de police.</p>
+        <p/>
+        <p><hi rend="b">SCIENCE : </hi>Un peu de science écarte de la religion et beaucoup y ramène.</p>
+        <p/>
+        <p><hi rend="b">SCUDÉRY : </hi>On doit le blaguer, sans savoir si c’était un homme ou une femme.</p>
+        <p/>
+        <p><hi rend="b">SÉNÈQUE : </hi>Ecrivait sur un pupitre d’or.</p>
+        <p/>
+        <p><hi rend="b">SERPENT : </hi>Tous venimeux.</p>
+        <p/>
+        <p><hi rend="b">SERVICE : </hi>C’est rendre service aux enfants que de les calotter ; aux animaux que de les battre ; aux domestiques, que de les chasser ; aux malfaiteurs, que de les punir.</p>
+        <p/>
+        <p><hi rend="b">SÉVILLE : </hi>Célèbre endroit pour son barbier. Voir Séville et mourir ! (v. Naples).</p>
+        <p/>
+        <p><hi rend="b">SITE : </hi>Endroits pour faire des vers.</p>
+        <p/>
+        <p><hi rend="b">SOCIÉTÉ : </hi>Ses ennemis. Ce qui cause sa perte.</p>
+        <p/>
+        <p><hi rend="b">SOMBREUIL (Mlle de) : </hi>rappeler le verre de sang.</p>
+        <p/>
+        <p><hi rend="b">SOMMEIL : </hi>Epaissit le sang.</p>
+        <p/>
+        <p><hi rend="b">SOUFFLET : </hi>Ne jamais s’en servir.</p>
+        <p/>
+        <p><hi rend="b">SOMNAMBULE : </hi>Se promène la nuit sur la crête des toits.</p>
+        <p/>
+        <p><hi rend="b">SOUPERS DE LA RÉGENCE : </hi>On y dépensait encore plus d’esprit que de champagne.</p>
+        <p/>
+        <p><hi rend="b">SOUPIR : </hi>Doit s’exhaler près d’une femme.</p>
+        <p/>
+        <p><hi rend="b">SPIRITUALISME : </hi>Le meilleur système de philosophie.</p>
+        <p/>
+        <p><hi rend="b">STOÏCISME : </hi>Est impossible.</p>
+        <p/>
+        <p><hi rend="b">STUART (MARIE) : </hi>S’apitoyer sur son sort.</p>
+        <p/>
+        <p><hi rend="b">SUFFRAGE UNIVERSEL : </hi>Dernier terme de la science politique.</p>
+        <p/>
+        <p><hi rend="b">SUICIDE : </hi>Preuve de lâcheté.</p>
+        <p/>
+        <p><hi rend="b">SYBARITES : </hi>Tonner contre.</p>
+        <p/>
+        <p><hi rend="b">SYPHILIS : </hi>Plus ou moins, tout le monde en est affecté.</p>
+      </div>
+      <div>
+        <head>T</head>
+        <p><hi rend="b">TABAC : </hi>Celui de la régie ne vaut pas celui de contrebande. Le priser convient à l’homme de cabinet. Cause de toutes les maladies du cerveau et de la moelle épinière.</p>
+        <p/>
+        <p><hi rend="b">TABELLION : </hi>Plus flatteur que notaire.</p>
+        <p/>
+        <p><hi rend="b">TALLEYRAND (Prince de) : </hi>S’indigner contre.</p>
+        <p/>
+        <p><hi rend="b">TARTANE : </hi><emph>Viens dans ma tartane, Belle Grecque à l’œil noir</emph> (Romance).</p>
+        <p/>
+        <p><hi rend="b">TAUPE : </hi>Aveugle comme une taupe. Et cependant elle a des yeux.</p>
+        <p/>
+        <p><hi rend="b">TAUREAU : </hi>Le père du veau. Le bœuf n’est que l’oncle.</p>
+        <p/>
+        <p><hi rend="b">TÉMOIN : </hi>Il faut toujours refuser d’être témoin en justice, on ne sait pas où ça peut mener.</p>
+        <p/>
+        <p><hi rend="b">TEMPS : </hi>Eternel sujet de conversation. Cause universelle des maladies. Toujours s’en plaindre.</p>
+        <p/>
+        <p><hi rend="b">TERRE : </hi>Dire les quatre coins de la terre, puisqu’elle est ronde.</p>
+        <p/>
+        <p><hi rend="b">THÈME : </hi>Au collège, prouve l’application, comme la version prouve l’intelligence. Mais dans le monde il faut rire des forts en thème.</p>
+        <p/>
+        <p><hi rend="b">TOILETTE (des dames) : </hi>Trouble l’imagination.</p>
+        <p/>
+        <p><hi rend="b">TOLÉRANCE (maison de) : </hi>N’est pas celle où l’on a des opinions tolérantes.</p>
+        <p/>
+        <p><hi rend="b">TOUR : </hi>Indispensable à avoir dans son grenier, à la campagne, pour les jours de pluie.</p>
+        <p/>
+        <p><hi rend="b">TRANSPIRATION des pieds : </hi>Signe de santé.</p>
+        <p/>
+        <p><hi rend="b">TREIZE : </hi>Eviter d’être treize à table, ça porte malheur. Les esprits forts ne devront jamais manquer de plaisanter : « Qu’est-ce que ça fait, je mangerai pour deux.  »  Ou bien s’il y a des dames, de demander si l’une d’elles n’est pas enceinte.</p>
+        <p/>
+        <p><hi rend="b">TROUBADOUR : </hi>Beau sujet de pendule.</p>
+      </div>
+      <div>
+        <head>U</head>
+        <p><hi rend="b">UKASE : </hi>Appeler ukase tout décret autoritaire, ça vexe le gouvernement.</p>
+        <p/>
+        <p><hi rend="b">UNIVERSITÉ : </hi>Alma mater.</p>
+        <p/>
+        <p><hi rend="b">USUM (ad). : </hi>Locution latine qui fait bien dans la phrase : <emph>Ad usum Delphini</emph>. Devra toujours s’employer en parlant d’une femme appelée Delphine.</p>
+      </div>
+      <div>
+        <head>V</head>
+        <p><hi rend="b">VACCINE : </hi>Ne fréquenter que des personnes vaccinées.</p>
+        <p/>
+        <p><hi rend="b">VALSE : </hi>S’indigner contre. Danse lascive et impure qui ne devrait être dansée que par les vieilles femmes.</p>
+        <p/>
+        <p><hi rend="b">VEILLÉES : </hi>Celles de la campagne sont morales.</p>
+        <p/>
+        <p><hi rend="b">VELOURS : </hi>Sur les habits, distinction et richesse.</p>
+        <p/>
+        <p><hi rend="b">VENTE : </hi>Vendre et acheter, but de la vie.</p>
+        <p/>
+        <p><hi rend="b">VENTRE : </hi>Dire abdomen quand il y a des dames.</p>
+        <p/>
+        <p><hi rend="b">VERRES : </hi>On ne lui a pas encore pardonné.</p>
+        <p/>
+        <p><hi rend="b">VIEILLARD : </hi>A propos d’une inondation, d’un orage, etc. , les vieillard du pays ne se rappellent jamais en avoir vu un de semblable.</p>
+        <p/>
+        <p><hi rend="b">VINS : </hi>Sujet de conversation entre hommes. Le meilleurs est le bordeaux, puisque les médecins l’ordonnent. Plus il est mauvais, plus il est naturel.</p>
+        <p/>
+        <p><hi rend="b">VISAGE : </hi>Miroir de l’âme. Alors il y a des gens qui ont l’âme bien laide.</p>
+        <p/>
+        <p><hi rend="b">VIZIR : </hi>tremble à la vue d’un cordon.</p>
+        <p/>
+        <p><hi rend="b">VOISINS : </hi>Tâcher de se faire rendre par eux des services sans qu’il en coûte rien.</p>
+        <p/>
+        <p><hi rend="b">VOITURES : </hi>Plus commode d’en louer une que d’en posséder : de cette manière, on n’a pas le tracas des domestiques, ni des chevaux qui sont toujours malades.</p>
+        <p/>
+        <p><hi rend="b">VOLTAIRE : </hi>Célèbre par son « rictus »  épouvantable. Science superficielle.</p>
+        <p><hi rend="b">VOYAGE : </hi>Doit être fait rapidement.</p>
+        <p/>
+        <p><hi rend="b">VOYAGEUR : </hi>Toujours intrépide.</p>
+      </div>
+      <div>
+        <head>W</head>
+        <p><hi rend="b">WAGNER : </hi>Ricaner quand on entend son nom, et faire des plaisanteries sur la musique de l’avenir.</p>
+      </div>
+      <div>
+        <head>Y</head>
+        <p><hi rend="b">YVETOT : </hi>Voir Yvetot et mourir ! (v. Naples et Séville)</p>
+      </div>
+    </body>
+  </text>
+</TEI>
